@@ -1,0 +1,118 @@
+{
+  "fuentes": [
+    {
+      "salida": "rebconlib.xml",
+      "nombre": "Rebelión · Conocimiento Libre",
+      "url": "https://rebelion.org/categoria/tema/conocimiento-libre/",
+      "repos": [
+        "rebconlib"
+      ]
+    },
+    {
+      "salida": "rebcultura.xml",
+      "nombre": "Rebelión · Cultura",
+      "url": "https://rebelion.org/categoria/tema/cultura/",
+      "repos": [
+        "rebcultura"
+      ]
+    },
+    {
+      "salida": "rebecosoc.xml",
+      "nombre": "Rebelión · Ecología social",
+      "url": "https://rebelion.org/categoria/tema/ecologia-social/",
+      "repos": [
+        "rebecosoc"
+      ]
+    },
+    {
+      "salida": "rebeconomia.xml",
+      "nombre": "Rebelión · Economía",
+      "url": "https://rebelion.org/categoria/tema/economia/",
+      "repos": [
+        "rebeconomia"
+      ]
+    },
+    {
+      "salida": "rebfeminismo.xml",
+      "nombre": "Rebelión · Feminismos",
+      "url": "https://rebelion.org/categoria/tema/feminismos/",
+      "repos": [
+        "rebfeminismo"
+      ]
+    },
+    {
+      "salida": "rebmedioslib.xml",
+      "nombre": "Rebelión · Mentiras y medios",
+      "url": "https://rebelion.org/categoria/tema/mentiras-y-medios/",
+      "repos": [
+        "rebmedioslib"
+      ]
+    },
+    {
+      "salida": "rebotromundo.xml",
+      "nombre": "Rebelión · Otro mundo es posible",
+      "url": "https://rebelion.org/categoria/tema/otro-mundo-es-posible/",
+      "repos": [
+        "reb-otro-mundo-es-posible"
+      ]
+    },
+    {
+      "salida": "rebAL.xml",
+      "nombre": "Rebelión · América Latina y Caribe",
+      "url": "https://rebelion.org/categoria/territorios/america-latina-y-caribe/",
+      "repos": [
+        "rebAL"
+      ]
+    },
+    {
+      "salida": "rebargentina.xml",
+      "nombre": "Rebelión · Argentina",
+      "url": "https://rebelion.org/categoria/territorios/america-latina-y-caribe/argentina/",
+      "repos": [
+        "rebargentina"
+      ]
+    },
+    {
+      "salida": "rebcolombia.xml",
+      "nombre": "Rebelión · Colombia",
+      "url": "https://rebelion.org/categoria/territorios/america-latina-y-caribe/colombia/",
+      "repos": [
+        "rebcolombia"
+      ]
+    },
+    {
+      "salida": "rebcuba.xml",
+      "nombre": "Rebelión · Cuba",
+      "url": "https://rebelion.org/categoria/territorios/america-latina-y-caribe/cuba/",
+      "repos": [
+        "rebcuba",
+        "reb-cuba"
+      ]
+    },
+    {
+      "salida": "rebecuador.xml",
+      "nombre": "Rebelión · Ecuador",
+      "url": "https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/",
+      "repos": [
+        "rebecuador",
+        "reb-ecuador"
+      ]
+    },
+    {
+      "salida": "rebmexico.xml",
+      "nombre": "Rebelión · México",
+      "url": "https://rebelion.org/categoria/territorios/mexico/",
+      "repos": [
+        "reb-mexico"
+      ]
+    },
+    {
+      "salida": "rebvenezuela.xml",
+      "nombre": "Rebelión · Venezuela",
+      "url": "https://rebelion.org/categoria/territorios/america-latina-y-caribe/venezuela/",
+      "repos": [
+        "rebvenezuela"
+      ]
+    }
+  ]
+}
