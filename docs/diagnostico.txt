@@ -1,0 +1,52 @@
+Diagnostico de acceso a rebelion.org  --  2026-09-07 05:57 UTC
+IP publica del runner: 20.168.100.103
+
+### bot UA (el que usa el script)
+    url    : https://rebelion.org/wp-json/wp/v2/categories?slug=ecuador
+    HTTP   : 403   server: cloudflare   cf-mitigated: challenge
+    title  : <title>Just a moment...</title>
+    inicio : <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="C
+
+### UA de Chrome en Linux
+    url    : https://rebelion.org/wp-json/wp/v2/categories?slug=ecuador
+    HTTP   : 403   server: cloudflare   cf-mitigated: challenge
+    title  : <title>Just a moment...</title>
+    inicio : <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="C
+
+### UA de Firefox en Windows
+    url    : https://rebelion.org/wp-json/wp/v2/categories?slug=ecuador
+    HTTP   : 403   server: cloudflare   cf-mitigated: challenge
+    title  : <title>Just a moment...</title>
+    inicio : <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="C
+
+### curl por defecto
+    url    : https://rebelion.org/wp-json/wp/v2/categories?slug=ecuador
+    HTTP   : 403   server: cloudflare   cf-mitigated: challenge
+    title  : <title>Just a moment...</title>
+    inicio : <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="C
+
+### feedparser
+    url    : https://rebelion.org/wp-json/wp/v2/categories?slug=ecuador
+    HTTP   : 403   server: cloudflare   cf-mitigated: challenge
+    title  : <title>Just a moment...</title>
+    inicio : <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="C
+
+### Googlebot
+    url    : https://rebelion.org/wp-json/wp/v2/categories?slug=ecuador
+    HTTP   : 403   server: cloudflare   cf-mitigated: challenge
+    title  : <title>Just a moment...</title>
+    inicio : <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="C
+
+### Chrome sobre el HTML
+    url    : https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/
+    HTTP   : 403   server: cloudflare   cf-mitigated: challenge
+    title  : <title>Just a moment...</title>
+    inicio : <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="C
+
+=== control: un sitio sin Cloudflare ===
+### control example.com
+    url    : https://example.com/
+    HTTP   : 200   server: cloudflare   
+    title  : <title>Example Domain</title>
+    inicio : <!doctype html><html lang="en"><head><title>Example Domain</title><link rel="icon" href="d
+
