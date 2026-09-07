@@ -1,0 +1,53 @@
+name: Generar feeds
+
+on:
+  schedule:
+    # 11:00 y 23:00 UTC. El de las 11:00 corre ANTES que los crons de los
+    # repos de podcast (12:03–12:37 UTC), para que encuentren el feed fresco.
+    - cron: "0 11 * * *"
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generar-feeds
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Generar feeds
+        id: generar
+        continue-on-error: true
+        run: python generar_feeds.py
+
+      - name: Publicar cambios
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --staged --quiet; then
+            echo "Sin cambios en los feeds."
+          else
+            git commit -m "Feeds actualizados $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Fallar si alguna fuente no se pudo generar
+        if: steps.generar.outcome == 'failure'
+        run: |
+          echo "::warning::Al menos una fuente falló. Revisa docs/estado.json"
+          exit 1
