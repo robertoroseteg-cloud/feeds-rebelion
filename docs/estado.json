@@ -1,0 +1,103 @@
+{
+  "generado": "2026-09-07T05:47:20.481477+00:00",
+  "resultados": [
+    {
+      "salida": "rebconlib.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebcultura.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebecosoc.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebeconomia.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebfeminismo.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebmedioslib.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebotromundo.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebAL.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebargentina.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebcolombia.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebcuba.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebecuador.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebmexico.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    },
+    {
+      "salida": "rebvenezuela.xml",
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, sin archivo previo"
+    }
+  ]
+}
