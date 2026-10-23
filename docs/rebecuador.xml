@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:38:51 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Persecución política a dirigentes del correísmo</title>
+      <link>https://rebelion.org/persecucion-politica-a-dirigentes-del-correismo/</link>
+      <guid isPermaLink="true">https://rebelion.org/persecucion-politica-a-dirigentes-del-correismo/</guid>
+      <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
+      <description>Persecución política a dirigentes del correísmo</description>
+    </item>
     <item>
       <title>El alabao, un canto a la vida</title>
       <link>https://rebelion.org/el-alabao-un-canto-a-la-vida/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/enfrentar-una-ecuacion-perversa/</guid>
       <pubDate>Wed, 26 Aug 2026 04:25:00 +0000</pubDate>
       <description>Enfrentar una ecuación perversa</description>
-    </item>
-    <item>
-      <title>Monseñor Proaño, 38 años después</title>
-      <link>https://rebelion.org/monsenor-proano-38-anos-despues/</link>
-      <guid isPermaLink="true">https://rebelion.org/monsenor-proano-38-anos-despues/</guid>
-      <pubDate>Mon, 24 Aug 2026 04:00:00 +0000</pubDate>
-      <description>Monseñor Proaño, 38 años después</description>
     </item>
   </channel>
 </rss>

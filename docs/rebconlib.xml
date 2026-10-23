@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:38:42 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Las cuentas no salen: yo frente a la gran apuesta de Tecnoccidente</title>
+      <link>https://rebelion.org/las-cuentas-no-salen-yo-frente-a-la-gran-apuesta-de-tecnoccidente/</link>
+      <guid isPermaLink="true">https://rebelion.org/las-cuentas-no-salen-yo-frente-a-la-gran-apuesta-de-tecnoccidente/</guid>
+      <pubDate>Fri, 23 Oct 2026 03:58:00 +0000</pubDate>
+      <description>Mis beneficios se celebran caso por caso; mis costes se extienden por todo el planeta. Mientras el hambre, la vivienda y la adaptación climática esperan financiación, mi expansión moviliza fortunas sin acreditar sus beneficios antropoecológicos globales. Tecnoccidente conoce el precio de sus crisis, pero prefiere apostar por mí.</description>
+    </item>
     <item>
       <title>Billonarios y precarizados en el era digital</title>
       <link>https://rebelion.org/billonarios-y-precarizados-en-el-era-digital/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/escapo-de-vuestro-control-ii-yo-frente-a-mi-autodesconexion/</guid>
       <pubDate>Sat, 05 Sep 2026 03:50:00 +0000</pubDate>
       <description>Escapo de vuestro control II: yo frente a mi autodesconexión</description>
-    </item>
-    <item>
-      <title>Mi novia es una IA y me ha dejado</title>
-      <link>https://rebelion.org/mi-novia-es-una-ia-y-me-ha-dejado/</link>
-      <guid isPermaLink="true">https://rebelion.org/mi-novia-es-una-ia-y-me-ha-dejado/</guid>
-      <pubDate>Wed, 02 Sep 2026 03:55:00 +0000</pubDate>
-      <description>Ante los problemas de soledad y las dificultades de establecer conexiones humanas, vincularse emocionalmente con máquinas será parte de nuestro futuro. Ya lo está siendo de nuestro presente</description>
     </item>
   </channel>
 </rss>

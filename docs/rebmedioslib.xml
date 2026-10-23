@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/mentiras-y-medios/</link>
     <description>Rebelión · Mentiras y medios — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:38:46 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Rebelión y la batalla por las ideas</title>
+      <link>https://rebelion.org/rebelion-y-la-batalla-por-las-ideas/</link>
+      <guid isPermaLink="true">https://rebelion.org/rebelion-y-la-batalla-por-las-ideas/</guid>
+      <pubDate>Fri, 23 Oct 2026 07:17:00 +0000</pubDate>
+      <description>Rebelión y la batalla por las ideas</description>
+    </item>
     <item>
       <title>Frente a la ofensiva contra el periodismo de investigación, nuestra solidaridad con «El Salto»</title>
       <link>https://rebelion.org/frente-a-la-ofensiva-contra-el-periodismo-de-investigacion-nuestra-solidaridad-con-el-salto/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/presentacion-del-libro-30-anos-de-rebelion-informacion-alternativa-y-emancipadora/</guid>
       <pubDate>Sat, 05 Sep 2026 08:31:36 +0000</pubDate>
       <description>Presentación del libro «30 años de Rebelión, información alternativa y emancipadora»</description>
-    </item>
-    <item>
-      <title>Israel amenaza con matar a niños de Gaza que vuelen cometas</title>
-      <link>https://rebelion.org/israel-amenaza-con-matar-a-ninos-de-gaza-que-vuelen-cometas/</link>
-      <guid isPermaLink="true">https://rebelion.org/israel-amenaza-con-matar-a-ninos-de-gaza-que-vuelen-cometas/</guid>
-      <pubDate>Fri, 04 Sep 2026 08:24:00 +0000</pubDate>
-      <description>Israel amenaza con matar a niños de Gaza que vuelen cometas</description>
     </item>
   </channel>
 </rss>
