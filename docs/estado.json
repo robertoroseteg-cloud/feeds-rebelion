@@ -1,103 +1,103 @@
 {
-  "generado": "2026-10-22T15:47:51.497987+00:00",
+  "generado": "2026-10-23T01:04:00.752182+00:00",
   "resultados": [
     {
       "salida": "rebconlib.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebcultura.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebecosoc.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebeconomia.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebfeminismo.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebmedioslib.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebotromundo.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebAL.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebargentina.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebcolombia.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebcuba.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebecuador.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebmexico.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     },
     {
       "salida": "rebvenezuela.xml",
-      "ok": false,
-      "metodo": null,
-      "items": 0,
-      "nota": "fallo, sin archivo previo"
+      "ok": true,
+      "metodo": "api rest",
+      "items": 25,
+      "nota": ""
     }
   ]
 }
