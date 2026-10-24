@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:15:45 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Juan Segarra Palmer y los Macheteros</title>
+      <link>https://rebelion.org/juan-segarra-palmer-y-los-macheteros/</link>
+      <guid isPermaLink="true">https://rebelion.org/juan-segarra-palmer-y-los-macheteros/</guid>
+      <pubDate>Sat, 24 Oct 2026 04:18:59 +0000</pubDate>
+      <description>Juan Segarra Palmer y los Macheteros</description>
+    </item>
     <item>
       <title>«La integridad era una salvaguardia esencial para Andrée Blouin»</title>
       <link>https://rebelion.org/la-integridad-era-una-salvaguardia-esencial-para-andree-blouin/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/el-emblema-teatral-del-15m-vuelve-a-viralizarse-y-a-recorrer-el-mundo/</guid>
       <pubDate>Wed, 30 Sep 2026 03:21:00 +0000</pubDate>
       <description>El emblema teatral del 15M vuelve a viralizarse y a recorrer el mundo</description>
-    </item>
-    <item>
-      <title>Transformaciones del amor y la pareja en los tiempos actuales</title>
-      <link>https://rebelion.org/transformaciones-del-amor-y-la-pareja-en-los-tiempos-actuales/</link>
-      <guid isPermaLink="true">https://rebelion.org/transformaciones-del-amor-y-la-pareja-en-los-tiempos-actuales/</guid>
-      <pubDate>Wed, 30 Sep 2026 03:19:00 +0000</pubDate>
-      <description>«Cartografías clínicas de amor y parejas. Trazos del interior», de Virginia Grosso (compiladora y autora) Buenos Aires, Ricardo Vergara Editores, 2025. 140 páginas.</description>
     </item>
   </channel>
 </rss>

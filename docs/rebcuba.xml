@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/cuba/</link>
     <description>Rebelión · Cuba — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:15:53 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Contribución histórica y llamado de la época de Fidel Castro</title>
+      <link>https://rebelion.org/contribucion-historica-y-llamado-de-la-epoca-de-fidel-castro/</link>
+      <guid isPermaLink="true">https://rebelion.org/contribucion-historica-y-llamado-de-la-epoca-de-fidel-castro/</guid>
+      <pubDate>Sat, 24 Oct 2026 04:17:00 +0000</pubDate>
+      <description>Contribución histórica y llamado de la época de Fidel Castro</description>
+    </item>
     <item>
       <title>Los intentos de apoderarse de Cuba: una historia que no comenzó con Fidel Castro</title>
       <link>https://rebelion.org/los-intentos-de-apoderarse-de-cuba-una-historia-que-no-comenzo-con-fiel-castro/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/marti-en-la-revolucion-cubana/</guid>
       <pubDate>Mon, 31 Aug 2026 05:38:49 +0000</pubDate>
       <description>Ponencia en la Conferencia por el Centenario de Fidel Castro en el Palacio de Convenciones de La Habana, celebrado los días 10, 11 y 12 de agosto de 2026.</description>
-    </item>
-    <item>
-      <title>La crítica de la economía política y su horizonte revolucionario</title>
-      <link>https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</guid>
-      <pubDate>Sat, 29 Aug 2026 03:42:00 +0000</pubDate>
-      <description>Participación en la conferencia llevada a cabo el 25 de agosto de 2026 en la Facultad de Economía de la UNAM.</description>
     </item>
   </channel>
 </rss>

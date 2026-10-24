@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:15:54 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Noboa en su laberinto y la persecución contra Luisa González</title>
+      <link>https://rebelion.org/noboa-en-su-laberinto-y-la-persecucion-contra-luisa-gonzalez/</link>
+      <guid isPermaLink="true">https://rebelion.org/noboa-en-su-laberinto-y-la-persecucion-contra-luisa-gonzalez/</guid>
+      <pubDate>Sat, 24 Oct 2026 04:15:00 +0000</pubDate>
+      <description>Noboa en su laberinto y la persecución contra Luisa González</description>
+    </item>
     <item>
       <title>Persecución política a dirigentes del correísmo</title>
       <link>https://rebelion.org/persecucion-politica-a-dirigentes-del-correismo/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/recuerdo-de-un-hecho-historico-ecuador-reconocio-al-estado-palestino-en-2010/</guid>
       <pubDate>Thu, 27 Aug 2026 04:20:00 +0000</pubDate>
       <description>Ecuador reconoció al Estado palestino en 2010</description>
-    </item>
-    <item>
-      <title>Enfrentar una ecuación perversa</title>
-      <link>https://rebelion.org/enfrentar-una-ecuacion-perversa/</link>
-      <guid isPermaLink="true">https://rebelion.org/enfrentar-una-ecuacion-perversa/</guid>
-      <pubDate>Wed, 26 Aug 2026 04:25:00 +0000</pubDate>
-      <description>Enfrentar una ecuación perversa</description>
     </item>
   </channel>
 </rss>
