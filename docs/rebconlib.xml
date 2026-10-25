@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sun, 25 Oct 2026 00:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:50:15 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>¿La IA contra sí misma?</title>
+      <link>https://rebelion.org/la-ia-contra-si-misma/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-ia-contra-si-misma/</guid>
+      <pubDate>Sun, 25 Oct 2026 12:51:32 +0000</pubDate>
+      <description>Lunes 29 de octubre. 19.00 h. Ateneo La Maliciosa C/ Peñuelas 12. Madrid</description>
+    </item>
     <item>
       <title>Las cuentas no salen: yo frente a la gran apuesta de Tecnoccidente</title>
       <link>https://rebelion.org/las-cuentas-no-salen-yo-frente-a-la-gran-apuesta-de-tecnoccidente/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/lo-que-no-sabes-del-futuro-es-que-ya-lo-sabe-la-ia/</guid>
       <pubDate>Wed, 09 Sep 2026 04:00:00 +0000</pubDate>
       <description>La inteligencia artificial llega para quedarse y es posible que por mucho tiempo. Su advenimiento ha sido veloz aunque es cierto que la carrera ya llevaba décadas produciéndose.</description>
-    </item>
-    <item>
-      <title>Escapo de vuestro control II: yo frente a mi autodesconexión</title>
-      <link>https://rebelion.org/escapo-de-vuestro-control-ii-yo-frente-a-mi-autodesconexion/</link>
-      <guid isPermaLink="true">https://rebelion.org/escapo-de-vuestro-control-ii-yo-frente-a-mi-autodesconexion/</guid>
-      <pubDate>Sat, 05 Sep 2026 03:50:00 +0000</pubDate>
-      <description>Escapo de vuestro control II: yo frente a mi autodesconexión</description>
     </item>
   </channel>
 </rss>
