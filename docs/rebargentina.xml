@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/argentina/</link>
     <description>Rebelión · Argentina — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 26 Oct 2026 00:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:08:07 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Toda deuda es política</title>
+      <link>https://rebelion.org/toda-deuda-es-politica/</link>
+      <guid isPermaLink="true">https://rebelion.org/toda-deuda-es-politica/</guid>
+      <pubDate>Mon, 26 Oct 2026 05:15:00 +0000</pubDate>
+      <description>El ajuste económico, el fácil acceso a las billeteras virtuales y la desregulación financiera generaron un inédito nivel de endeudamiento familiar en la Argentina. Frente a la angustia individual, la respuesta de algunos sectores es discutir públicamente el tema para encontrar una salida colectiva.</description>
+    </item>
     <item>
       <title>Docentes bonaerenses rechazan el 6% de aumento de Kicillof y convocan a paros, ollas populares y movilizaciones</title>
       <link>https://rebelion.org/docentes-bonaerenses-rechazan-el-6-de-aumento-de-kicillof-y-convocan-a-paros-ollas-populares-y-movilizaciones/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/una-corte-suprema-a-favor-de-la-extranjerizacion-de-la-tierra-y-en-contra-de-la-voluntad-popular/</guid>
       <pubDate>Tue, 06 Oct 2026 03:15:00 +0000</pubDate>
       <description>La Corte Suprema derogó la Ley de Tierras al revertir una medida cautelar por razones procesales, entre ellas, desconocer la soberanía territorial como un derecho de incidencia colectiva. El fallo se ajusta a los intereses del gobierno de Javier Milei y los capitales extranjeros, algo que la movilización popular frenó en agosto. El análisis de la Mesa Agroalimentaria Argentina y especialistas en d</description>
-    </item>
-    <item>
-      <title>Paro de 72 horas en la Universidades nacionales</title>
-      <link>https://rebelion.org/paro-de-72-horas-en-la-universidades-nacionales/</link>
-      <guid isPermaLink="true">https://rebelion.org/paro-de-72-horas-en-la-universidades-nacionales/</guid>
-      <pubDate>Mon, 05 Oct 2026 07:15:20 +0000</pubDate>
-      <description>El personal docente y no docente de las universidades públicas comenzará el miércoles un nuevo paro por 72 horas para exigir la aplicación inmediata de la Ley de Financiamiento Universitario y la recomposición salarial del 33,4%. Mentras tanto, el juez Cormick le dio un nuevo plazo de cinco días al Estado nacional para que cumpla con la ley de Financiamiento Universitario, que Milei insiste en ign</description>
     </item>
   </channel>
 </rss>
