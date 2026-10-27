@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/cuba/</link>
     <description>Rebelión · Cuba — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:12:55 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Vasallaje o exterminio vs. resistencia y dignidad</title>
+      <link>https://rebelion.org/vasallaje-o-exterminio-vs-resistencia-y-dignidad/</link>
+      <guid isPermaLink="true">https://rebelion.org/vasallaje-o-exterminio-vs-resistencia-y-dignidad/</guid>
+      <pubDate>Tue, 27 Oct 2026 05:15:00 +0000</pubDate>
+      <description>Vasallaje o exterminio vs. resistencia y dignidad</description>
+    </item>
     <item>
       <title>Contribución histórica y llamado de la época de Fidel Castro</title>
       <link>https://rebelion.org/contribucion-historica-y-llamado-de-la-epoca-de-fidel-castro/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/solidaridad-militante-con-cuba-por-el-derecho-a-vivir/</guid>
       <pubDate>Tue, 01 Sep 2026 08:21:37 +0000</pubDate>
       <description>Solidaridad militante con Cuba… Por el derecho a vivir</description>
-    </item>
-    <item>
-      <title>Martí en la Revolución cubana</title>
-      <link>https://rebelion.org/marti-en-la-revolucion-cubana/</link>
-      <guid isPermaLink="true">https://rebelion.org/marti-en-la-revolucion-cubana/</guid>
-      <pubDate>Mon, 31 Aug 2026 05:38:49 +0000</pubDate>
-      <description>Ponencia en la Conferencia por el Centenario de Fidel Castro en el Palacio de Convenciones de La Habana, celebrado los días 10, 11 y 12 de agosto de 2026.</description>
     </item>
   </channel>
 </rss>

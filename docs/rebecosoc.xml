@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/ecologia-social/</link>
     <description>Rebelión · Ecología social — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:12:49 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>La COP17 pone a prueba el compromiso global para frenar la pérdida de biodiversidad</title>
+      <link>https://rebelion.org/la-cop17-pone-a-prueba-el-compromiso-global-para-frenar-la-perdida-de-biodiversidad/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-cop17-pone-a-prueba-el-compromiso-global-para-frenar-la-perdida-de-biodiversidad/</guid>
+      <pubDate>Tue, 27 Oct 2026 05:30:00 +0000</pubDate>
+      <description>Ereván acoge la XVII Conferencia de las Naciones Unidas sobre Biodiversidad, un encuentro centrado en evaluar los compromisos adoptados por la comunidad internacional para proteger el 30% del planeta en 2030.</description>
+    </item>
     <item>
       <title>«Coexistiremos hasta morir, si eso es la coexistencia»</title>
       <link>https://rebelion.org/coexistiremos-hasta-morir-si-eso-es-la-coexistencia/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/decenas-de-pastores-indigenas-presentan-una-demanda-contra-un-proyecto-de-carbono-en-kenia/</guid>
       <pubDate>Wed, 07 Oct 2026 04:00:00 +0000</pubDate>
       <description>Comunidades indígenas de Kenia han emprendido acciones legales contra un proyecto de créditos de carbono de NRT.</description>
-    </item>
-    <item>
-      <title>Zonas verdes urbanas, salud humana y adaptación a las olas de calor</title>
-      <link>https://rebelion.org/zonas-verdes-urbanas-salud-humana-y-adaptacion-a-las-olas-de-calor/</link>
-      <guid isPermaLink="true">https://rebelion.org/zonas-verdes-urbanas-salud-humana-y-adaptacion-a-las-olas-de-calor/</guid>
-      <pubDate>Tue, 06 Oct 2026 04:20:00 +0000</pubDate>
-      <description>Las zonas verdes urbanas —parques, jardines, arbolado viario, corredores ecológicos, huertos comunitarios, patios naturalizados, cubiertas vegetales y otras soluciones basadas en la naturaleza— se consideran cada vez más una infraestructura esencial para la salud pública y la adaptación al cambio climático.</description>
     </item>
   </channel>
 </rss>

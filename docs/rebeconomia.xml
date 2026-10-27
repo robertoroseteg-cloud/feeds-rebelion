@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/economia/</link>
     <description>Rebelión · Economía — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:12:50 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>La protesta social desafía a una Europa en crisis</title>
+      <link>https://rebelion.org/la-protesta-social-desafia-a-una-europa-en-crisis/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-protesta-social-desafia-a-una-europa-en-crisis/</guid>
+      <pubDate>Tue, 27 Oct 2026 05:35:00 +0000</pubDate>
+      <description>Protestas sociales en aumento desafían desde hace varias semanas a una Europa debilitada por su propia crisis económica y social. Y revelan, además, el impacto de la guerra en Ucrania para un continente que se “apropió” de la misma.</description>
+    </item>
     <item>
       <title>Los bufones del poder y el poder de los bufones</title>
       <link>https://rebelion.org/los-bufones-del-poder-y-el-poder-de-los-bufones/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/bitcoin-en-el-salvador-que-queda-de-la-excentrica-y-fallida-apuesta-de-bukele/</guid>
       <pubDate>Thu, 08 Oct 2026 04:25:00 +0000</pubDate>
       <description>La apuesta del presidente Nayib Bukele por convertir a El Salvador en un centro mundial de las criptomonedas, específicamente del bitcóin, no produjo la adopción masiva que esperaba. Los salvadoreños no lo hicieron suyo, como él soñaba. Y ha tenido que retroceder, a regañadientes.</description>
-    </item>
-    <item>
-      <title>Cómo el dinero cambió la literatura</title>
-      <link>https://rebelion.org/como-el-dinero-cambio-la-literatura/</link>
-      <guid isPermaLink="true">https://rebelion.org/como-el-dinero-cambio-la-literatura/</guid>
-      <pubDate>Wed, 07 Oct 2026 04:30:00 +0000</pubDate>
-      <description>Cómo el dinero cambió la literatura</description>
     </item>
   </channel>
 </rss>

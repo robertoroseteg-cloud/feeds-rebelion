@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:12:48 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Acerca del escudo social</title>
+      <link>https://rebelion.org/acerca-del-escudo-social/</link>
+      <guid isPermaLink="true">https://rebelion.org/acerca-del-escudo-social/</guid>
+      <pubDate>Tue, 27 Oct 2026 04:55:00 +0000</pubDate>
+      <description>Acerca del escudo social</description>
+    </item>
+    <item>
+      <title>Filosofando por senderos no trillados (II)</title>
+      <link>https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</link>
+      <guid isPermaLink="true">https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</guid>
+      <pubDate>Tue, 27 Oct 2026 04:33:00 +0000</pubDate>
+      <description>Filosofando por senderos no trillados (II)</description>
+    </item>
     <item>
       <title>Juan Segarra Palmer y los Macheteros</title>
       <link>https://rebelion.org/juan-segarra-palmer-y-los-macheteros/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/la-memoria-de-las-victimas-de-la-sima-de-jinamar-se-hizo-oir-en-albania/</guid>
       <pubDate>Fri, 02 Oct 2026 03:00:00 +0000</pubDate>
       <description>La memoria de las víctimas de la Sima de Jinámar se hizo oír en Albania</description>
-    </item>
-    <item>
-      <title>«Es un tópico decir que uno escribe aquello que le gustaría leer, pero a mí me pasa algo parecido»</title>
-      <link>https://rebelion.org/es-un-topico-decir-que-uno-escribe-aquello-que-le-gustaria-leer-pero-a-mi-me-pasa-algo-parecido/</link>
-      <guid isPermaLink="true">https://rebelion.org/es-un-topico-decir-que-uno-escribe-aquello-que-le-gustaria-leer-pero-a-mi-me-pasa-algo-parecido/</guid>
-      <pubDate>Thu, 01 Oct 2026 06:11:00 +0000</pubDate>
-      <description>Javier Vilaplana Ruiz (Cabra, Córdoba, 1980), Licenciado en Derecho y doctor en Filosofía, es investigador y profesor en la Universidad de Córdoba. Acaba de aparecer su último libro, «En el lugar de la utopía» (Dyskolo, 2026), que será presentado en la Feria del Libro de Córdoba, y en el que conjuga de una particular manera las leyes, la filosofía y la literatura. Vilaplana considera que literatur</description>
-    </item>
-    <item>
-      <title>El emblema teatral del 15M vuelve a viralizarse y a recorrer el mundo</title>
-      <link>https://rebelion.org/el-emblema-teatral-del-15m-vuelve-a-viralizarse-y-a-recorrer-el-mundo/</link>
-      <guid isPermaLink="true">https://rebelion.org/el-emblema-teatral-del-15m-vuelve-a-viralizarse-y-a-recorrer-el-mundo/</guid>
-      <pubDate>Wed, 30 Sep 2026 03:21:00 +0000</pubDate>
-      <description>El emblema teatral del 15M vuelve a viralizarse y a recorrer el mundo</description>
     </item>
   </channel>
 </rss>
