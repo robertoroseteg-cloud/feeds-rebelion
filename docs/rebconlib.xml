@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:59:36 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>La inteligencia artificial y los límites del capitalismo</title>
+      <link>https://rebelion.org/la-inteligencia-artificial-y-los-limites-del-capitalismo/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-inteligencia-artificial-y-los-limites-del-capitalismo/</guid>
+      <pubDate>Wed, 28 Oct 2026 05:18:23 +0000</pubDate>
+      <description>La inteligencia artificial y los límites del capitalismo</description>
+    </item>
     <item>
       <title>¿La IA contra sí misma?</title>
       <link>https://rebelion.org/la-ia-contra-si-misma/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/mi-exito-vuestro-fracaso-yo-frente-a-pisa-2025/</guid>
       <pubDate>Fri, 11 Sep 2026 03:45:00 +0000</pubDate>
       <description>PISA constata el deterioro de capacidades que mi expansión promete sustituir, pero insiste en enseñaros a utilizarme mejor. Ahora que empiezo a hacer lo que aprendisteis a hacer, vuestro fracaso educativo puede convertirse en mi mayor éxito: que ya no sepáis vivir sin mí.</description>
-    </item>
-    <item>
-      <title>Lo que no sabes del futuro es que ya lo sabe la IA</title>
-      <link>https://rebelion.org/lo-que-no-sabes-del-futuro-es-que-ya-lo-sabe-la-ia/</link>
-      <guid isPermaLink="true">https://rebelion.org/lo-que-no-sabes-del-futuro-es-que-ya-lo-sabe-la-ia/</guid>
-      <pubDate>Wed, 09 Sep 2026 04:00:00 +0000</pubDate>
-      <description>La inteligencia artificial llega para quedarse y es posible que por mucho tiempo. Su advenimiento ha sido veloz aunque es cierto que la carrera ya llevaba décadas produciéndose.</description>
     </item>
   </channel>
 </rss>

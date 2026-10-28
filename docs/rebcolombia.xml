@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/colombia/</link>
     <description>Rebelión · Colombia — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:59:45 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Acumulación por aseguramiento</title>
+      <link>https://rebelion.org/acumulacion-por-aseguramiento/</link>
+      <guid isPermaLink="true">https://rebelion.org/acumulacion-por-aseguramiento/</guid>
+      <pubDate>Wed, 28 Oct 2026 05:10:00 +0000</pubDate>
+      <description>Acumulación por aseguramiento</description>
+    </item>
     <item>
       <title>La guerra milagro es contra la sociedad</title>
       <link>https://rebelion.org/la-guerra-milagro-es-contra-la-sociedad/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/ningun-fascismo-es-eterno/</guid>
       <pubDate>Tue, 22 Sep 2026 07:02:15 +0000</pubDate>
       <description>Ningún fascismo es eterno</description>
-    </item>
-    <item>
-      <title>Ciclo político y de gobierno: una mirada prospectiva general</title>
-      <link>https://rebelion.org/ciclo-politico-y-de-gobierno-una-mirada-prospectiva-general/</link>
-      <guid isPermaLink="true">https://rebelion.org/ciclo-politico-y-de-gobierno-una-mirada-prospectiva-general/</guid>
-      <pubDate>Tue, 15 Sep 2026 04:21:00 +0000</pubDate>
-      <description>Ciclo político y de gobierno: una mirada prospectiva general</description>
     </item>
   </channel>
 </rss>

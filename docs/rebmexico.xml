@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/territorios/mexico/</link>
     <description>Rebelión · México — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:59:48 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Represión gubernamental a la ciudadanía en lugar de suministrarle agua potable</title>
+      <link>https://rebelion.org/represion-gubernamental-a-la-ciudadania-en-lugar-de-suministrarle-agua-potable/</link>
+      <guid isPermaLink="true">https://rebelion.org/represion-gubernamental-a-la-ciudadania-en-lugar-de-suministrarle-agua-potable/</guid>
+      <pubDate>Wed, 28 Oct 2026 04:57:00 +0000</pubDate>
+      <description>Represión gubernamental a la ciudadanía en lugar de suministrarle agua potable</description>
+    </item>
+    <item>
+      <title>La SECIHTI y la ilusión de la ruptura</title>
+      <link>https://rebelion.org/la-secihti-y-la-ilusion-de-la-ruptura/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-secihti-y-la-ilusion-de-la-ruptura/</guid>
+      <pubDate>Wed, 28 Oct 2026 04:30:00 +0000</pubDate>
+      <description>El Estado mexicano, vistiéndose de derecha o de izquierda, siempre busca administrar la ciencia bajo la lógica del control y la escasez presupuestal, negando la autonomía real de la comunidad académica.</description>
+    </item>
     <item>
       <title>No es «pobreza de tiempo», es la explotación capitalista</title>
       <link>https://rebelion.org/no-es-pobreza-de-tiempo-es-la-explotacion-capitalista/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/israel-en-gaza-y-en-tu-casa/</guid>
       <pubDate>Fri, 11 Sep 2026 03:26:00 +0000</pubDate>
       <description>La presencia del gobierno de Israel, empresas y capitales de ese país se ha venido consolidando en México desde hace decenios. Ahora no como hechos incidentales o aislados sino bajo patrones sistemáticos más o menos establecidos.</description>
-    </item>
-    <item>
-      <title>El reto mexicano ante la ‘soberanía digital’</title>
-      <link>https://rebelion.org/el-reto-mexicano-ante-la-soberania-digital/</link>
-      <guid isPermaLink="true">https://rebelion.org/el-reto-mexicano-ante-la-soberania-digital/</guid>
-      <pubDate>Tue, 08 Sep 2026 04:28:00 +0000</pubDate>
-      <description>En México, la siguiente política de soberanía digital no podrá limitarse a la mera instalación de conectividad; tendrá que formar programadores, investigadores, ingenieros, especialistas en datos, expertos en ciberseguridad y profesionales capaces de auditar algoritmos.</description>
-    </item>
-    <item>
-      <title>Los fascistas y sus megacárceles se destapan en México</title>
-      <link>https://rebelion.org/los-fascistas-y-sus-megacarceles-se-destapan-en-mexico/</link>
-      <guid isPermaLink="true">https://rebelion.org/los-fascistas-y-sus-megacarceles-se-destapan-en-mexico/</guid>
-      <pubDate>Mon, 07 Sep 2026 08:32:05 +0000</pubDate>
-      <description>Es de amplio conocimiento que el Partido Acción Nacional surge y se mantiene con un pensamiento fascista, el cual buscaba y busca asegurar los intereses de una minoría acaudalada de mexicanos, y sobre todo, de grandes empresas extranjeras, en especial las norteamericanas.</description>
     </item>
   </channel>
 </rss>

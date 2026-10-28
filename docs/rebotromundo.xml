@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/otro-mundo-es-posible/</link>
     <description>Rebelión · Otro mundo es posible — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:52:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:59:42 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Por la paz y la soberanía de nuestros pueblos</title>
+      <link>https://rebelion.org/por-la-paz-y-la-soberania-de-nuestros-pueblos/</link>
+      <guid isPermaLink="true">https://rebelion.org/por-la-paz-y-la-soberania-de-nuestros-pueblos/</guid>
+      <pubDate>Wed, 28 Oct 2026 05:10:00 +0000</pubDate>
+      <description>Por la paz y la soberanía de nuestros pueblos</description>
+    </item>
     <item>
       <title>Alfabetizar es organizar</title>
       <link>https://rebelion.org/alfabetizar-es-organizar/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/civilizaciones-conflicto-o-convivencia/</guid>
       <pubDate>Thu, 16 Apr 2026 04:30:00 +0000</pubDate>
       <description>Civilizaciones: ¿conflicto o convivencia?</description>
-    </item>
-    <item>
-      <title>Alemania debe respetar el Tratado de No Proliferación Nuclear</title>
-      <link>https://rebelion.org/alemania-debe-respetar-el-tratado-de-no-proliferacion-nuclear/</link>
-      <guid isPermaLink="true">https://rebelion.org/alemania-debe-respetar-el-tratado-de-no-proliferacion-nuclear/</guid>
-      <pubDate>Fri, 10 Apr 2026 04:14:00 +0000</pubDate>
-      <description>Alemania debe respetar el Tratado de No Proliferación Nuclear</description>
     </item>
   </channel>
 </rss>

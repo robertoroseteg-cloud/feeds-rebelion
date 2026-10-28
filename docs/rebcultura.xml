@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:59:37 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>El viento y el tiempo arrastran las hojas muertas</title>
+      <link>https://rebelion.org/el-viento-y-el-tiempo-arrastran-las-hojas-muertas/</link>
+      <guid isPermaLink="true">https://rebelion.org/el-viento-y-el-tiempo-arrastran-las-hojas-muertas/</guid>
+      <pubDate>Wed, 28 Oct 2026 05:07:22 +0000</pubDate>
+      <description>El viento y el tiempo arrastran las hojas muertas</description>
+    </item>
+    <item>
+      <title>«Los viajes de Gulliver», trescientos años de un angustiado manifiesto político</title>
+      <link>https://rebelion.org/los-viajes-de-gulliver-trescientos-anos-de-un-angustiado-manifiesto-politico/</link>
+      <guid isPermaLink="true">https://rebelion.org/los-viajes-de-gulliver-trescientos-anos-de-un-angustiado-manifiesto-politico/</guid>
+      <pubDate>Wed, 28 Oct 2026 05:05:00 +0000</pubDate>
+      <description>Se cumplen tres siglos de esta obra maestra de la literatura universal, escrita por Jonathan Swift; enanos, gigantes, caballos que piensan y humanos animalizados, para un carrusel de situaciones que siempre son de actualidad.</description>
+    </item>
     <item>
       <title>Acerca del escudo social</title>
       <link>https://rebelion.org/acerca-del-escudo-social/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/tomar-distancia-frente-a-ver-un-filme-y-vivir-la-realidad-2/</guid>
       <pubDate>Fri, 02 Oct 2026 05:31:52 +0000</pubDate>
       <description>Tomar distancia frente a ver un filme y vivir la realidad</description>
-    </item>
-    <item>
-      <title>Centenario de la revista Amauta</title>
-      <link>https://rebelion.org/centenario-de-la-revista-amauta/</link>
-      <guid isPermaLink="true">https://rebelion.org/centenario-de-la-revista-amauta/</guid>
-      <pubDate>Fri, 02 Oct 2026 03:39:00 +0000</pubDate>
-      <description>Centenario de la revista Amauta</description>
-    </item>
-    <item>
-      <title>La memoria de las víctimas de la Sima de Jinámar se hizo oír en Albania</title>
-      <link>https://rebelion.org/la-memoria-de-las-victimas-de-la-sima-de-jinamar-se-hizo-oir-en-albania/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-memoria-de-las-victimas-de-la-sima-de-jinamar-se-hizo-oir-en-albania/</guid>
-      <pubDate>Fri, 02 Oct 2026 03:00:00 +0000</pubDate>
-      <description>La memoria de las víctimas de la Sima de Jinámar se hizo oír en Albania</description>
     </item>
   </channel>
 </rss>
