@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Oct 2026 01:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:18:53 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Contrasentidos del tecnofeudalismo</title>
+      <link>https://rebelion.org/contrasentidos-del-tecno-feudalismo/</link>
+      <guid isPermaLink="true">https://rebelion.org/contrasentidos-del-tecno-feudalismo/</guid>
+      <pubDate>Thu, 29 Oct 2026 04:01:00 +0000</pubDate>
+      <description>Contrasentidos del tecnofeudalismo</description>
+    </item>
     <item>
       <title>La inteligencia artificial y los límites del capitalismo</title>
       <link>https://rebelion.org/la-inteligencia-artificial-y-los-limites-del-capitalismo/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/iaherramienta-para-aumentar-beneficios-empresariales-o-para-reducir-la-jornada-laboral-y-mejorar-la-vida-humana/</guid>
       <pubDate>Mon, 14 Sep 2026 04:00:00 +0000</pubDate>
       <description>Existe un miedo creciente a que la inteligencia artificial elimine numerosos puestos de trabajo. Este temor se debe a que la IA puede organizar, controlar y ejecutar determinadas tareas con mayor rapidez, precisión y menor coste que las personas. Sin embargo, el problema no se encuentra únicamente en la capacidad técnica de la inteligencia artificial, sino en el sistema económico y social en el qu</description>
-    </item>
-    <item>
-      <title>Mi éxito, vuestro fracaso: yo frente a PISA 2025</title>
-      <link>https://rebelion.org/mi-exito-vuestro-fracaso-yo-frente-a-pisa-2025/</link>
-      <guid isPermaLink="true">https://rebelion.org/mi-exito-vuestro-fracaso-yo-frente-a-pisa-2025/</guid>
-      <pubDate>Fri, 11 Sep 2026 03:45:00 +0000</pubDate>
-      <description>PISA constata el deterioro de capacidades que mi expansión promete sustituir, pero insiste en enseñaros a utilizarme mejor. Ahora que empiezo a hacer lo que aprendisteis a hacer, vuestro fracaso educativo puede convertirse en mi mayor éxito: que ya no sepáis vivir sin mí.</description>
     </item>
   </channel>
 </rss>

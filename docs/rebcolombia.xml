@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/colombia/</link>
     <description>Rebelión · Colombia — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Oct 2026 01:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:19:02 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Colombia y el caos institucional, fiscal, socioeconómico y político</title>
+      <link>https://rebelion.org/colombia-y-el-caos-institucional-fiscal-socioeconomico-y-politico/</link>
+      <guid isPermaLink="true">https://rebelion.org/colombia-y-el-caos-institucional-fiscal-socioeconomico-y-politico/</guid>
+      <pubDate>Thu, 29 Oct 2026 06:29:00 +0000</pubDate>
+      <description>Colombia y el caos institucional, fiscal, socioeconómico y político</description>
+    </item>
     <item>
       <title>Acumulación por aseguramiento</title>
       <link>https://rebelion.org/acumulacion-por-aseguramiento/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/fondo-milagro-para-la-reconstruccion-es-un-frankenstein-seudo-empresarial/</guid>
       <pubDate>Tue, 22 Sep 2026 07:05:24 +0000</pubDate>
       <description>Fondo Milagro para la reconstrucción es un Frankenstein seudoempresarial</description>
-    </item>
-    <item>
-      <title>Ningún fascismo es eterno</title>
-      <link>https://rebelion.org/ningun-fascismo-es-eterno/</link>
-      <guid isPermaLink="true">https://rebelion.org/ningun-fascismo-es-eterno/</guid>
-      <pubDate>Tue, 22 Sep 2026 07:02:15 +0000</pubDate>
-      <description>Ningún fascismo es eterno</description>
     </item>
   </channel>
 </rss>
