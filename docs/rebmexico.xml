@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/mexico/</link>
     <description>Rebelión · México — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 30 Oct 2026 02:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:57:30 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>¿Celulares fuera?</title>
+      <link>https://rebelion.org/celulares-fuera/</link>
+      <guid isPermaLink="true">https://rebelion.org/celulares-fuera/</guid>
+      <pubDate>Fri, 30 Oct 2026 04:59:00 +0000</pubDate>
+      <description>Este 3 de noviembre de 2026 entra en vigor el acuerdo por el cual se regula el uso de celulares y otros dispositivos electrónicos en las escuelas de educación básica, media superior y superior en México.</description>
+    </item>
     <item>
       <title>Represión gubernamental a la ciudadanía en lugar de suministrarle agua potable</title>
       <link>https://rebelion.org/represion-gubernamental-a-la-ciudadania-en-lugar-de-suministrarle-agua-potable/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/profesores-universitarios-exigen-la-inmediata-libertad-de-alejandro-martinez-abogado-por-la-facultad-de-derecho-de-la-unam/</guid>
       <pubDate>Sat, 12 Sep 2026 03:26:00 +0000</pubDate>
       <description>Profesores universitarios exigen la inmediata libertad de Alejandro Martínez, abogado por la Facultad de Derecho de la UNAM</description>
-    </item>
-    <item>
-      <title>Israel en Gaza y en tu casa</title>
-      <link>https://rebelion.org/israel-en-gaza-y-en-tu-casa/</link>
-      <guid isPermaLink="true">https://rebelion.org/israel-en-gaza-y-en-tu-casa/</guid>
-      <pubDate>Fri, 11 Sep 2026 03:26:00 +0000</pubDate>
-      <description>La presencia del gobierno de Israel, empresas y capitales de ese país se ha venido consolidando en México desde hace decenios. Ahora no como hechos incidentales o aislados sino bajo patrones sistemáticos más o menos establecidos.</description>
     </item>
   </channel>
 </rss>

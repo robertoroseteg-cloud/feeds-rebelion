@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/</link>
     <description>Rebelión · América Latina y Caribe — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 30 Oct 2026 02:14:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:57:17 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>El territorio de la inteligencia artificial</title>
+      <link>https://rebelion.org/el-territorio-de-la-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://rebelion.org/el-territorio-de-la-inteligencia-artificial/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:11:00 +0000</pubDate>
+      <description>El territorio de la inteligencia artificial</description>
+    </item>
+    <item>
+      <title>UNAH y «cola» presupuestaria</title>
+      <link>https://rebelion.org/unah-y-cola-presupuestaria/</link>
+      <guid isPermaLink="true">https://rebelion.org/unah-y-cola-presupuestaria/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>UNAH y «cola» presupuestaria</description>
+    </item>
     <item>
       <title>El Congreso del Frente Amplio entre el respaldo y el mandato</title>
       <link>https://rebelion.org/el-congreso-del-frente-amplio-entre-el-respaldo-y-el-mandato/</link>
@@ -15,18 +29,18 @@
       <description>El Congreso del Frente Amplio entre el respaldo y el mandato</description>
     </item>
     <item>
-      <title>La dictadura de Bukele: ambiente familiar, aplican restricciones</title>
-      <link>https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</guid>
-      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-      <description>La dictadura de Bukele ahora ofrece ambiente familiar. Tiene sello, publicidad y nombre en inglés: «family friendly». La invitación es pasar, sonreír y disfrutar. Pero conviene leer la letra pequeña: el anfitrión combate el reconocimiento de las familias diversas, separa hogares mediante capturas arbitrarias y empuja al exilio a quienes lo critican. Con semejante historial, el Gobierno parece más </description>
-    </item>
-    <item>
       <title>Latinoamérica y la búsqueda del buen vivir</title>
       <link>https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</link>
       <guid isPermaLink="true">https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</guid>
       <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
       <description>Latinoamérica y la búsqueda del buen vivir</description>
+    </item>
+    <item>
+      <title>La dictadura de Bukele: ambiente familiar, aplican restricciones</title>
+      <link>https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+      <description>La dictadura de Bukele ahora ofrece ambiente familiar. Tiene sello, publicidad y nombre en inglés: «family friendly». La invitación es pasar, sonreír y disfrutar. Pero conviene leer la letra pequeña: el anfitrión combate el reconocimiento de las familias diversas, separa hogares mediante capturas arbitrarias y empuja al exilio a quienes lo critican. Con semejante historial, el Gobierno parece más </description>
     </item>
     <item>
       <title>Maurice Bishop: adelante siempre</title>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/la-guerra-del-gobierno-de-estados-unidos-contra-los-migrantes-la-violencia-como-arma-politica-y-estrategia-de-disuasion/</guid>
       <pubDate>Fri, 09 Oct 2026 05:35:00 +0000</pubDate>
       <description>La guerra del gobierno de Estados Unidos contra los migrantes: la violencia como arma política y estrategia de disuasión</description>
-    </item>
-    <item>
-      <title>Mariátegui y los cambios sociales en Latinoamérica</title>
-      <link>https://rebelion.org/mariategui-y-los-cambios-sociales-en-latinoamerica/</link>
-      <guid isPermaLink="true">https://rebelion.org/mariategui-y-los-cambios-sociales-en-latinoamerica/</guid>
-      <pubDate>Fri, 09 Oct 2026 04:00:00 +0000</pubDate>
-      <description>Mariátegui y los cambios sociales en Latinoamérica</description>
-    </item>
-    <item>
-      <title>Bitcóin en El Salvador: qué queda de la excéntrica y fallida apuesta de Bukele</title>
-      <link>https://rebelion.org/bitcoin-en-el-salvador-que-queda-de-la-excentrica-y-fallida-apuesta-de-bukele/</link>
-      <guid isPermaLink="true">https://rebelion.org/bitcoin-en-el-salvador-que-queda-de-la-excentrica-y-fallida-apuesta-de-bukele/</guid>
-      <pubDate>Thu, 08 Oct 2026 04:25:00 +0000</pubDate>
-      <description>La apuesta del presidente Nayib Bukele por convertir a El Salvador en un centro mundial de las criptomonedas, específicamente del bitcóin, no produjo la adopción masiva que esperaba. Los salvadoreños no lo hicieron suyo, como él soñaba. Y ha tenido que retroceder, a regañadientes.</description>
     </item>
   </channel>
 </rss>

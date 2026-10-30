@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/economia/</link>
     <description>Rebelión · Economía — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 30 Oct 2026 02:14:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:56:33 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Brasil: la batalla acaba de comenzar</title>
+      <link>https://rebelion.org/brasil-la-batalla-acaba-de-comenzar/</link>
+      <guid isPermaLink="true">https://rebelion.org/brasil-la-batalla-acaba-de-comenzar/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:25:00 +0000</pubDate>
+      <description>¿La jaula como negocio? (El Tábano Economista)</description>
+    </item>
     <item>
       <title>Un Premio Nobel por «mover la economía en la dirección correcta»</title>
       <link>https://rebelion.org/un-premio-nobel-por-mover-la-economia-en-la-direccion-correcta/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/el-triunvirato-encargado-esta-desmontando-la-economia-venezolana-y-poniendola-al-servicio-de-ee-uu/</guid>
       <pubDate>Tue, 13 Oct 2026 04:00:00 +0000</pubDate>
       <description>«No puede haber chavismo con un petróleo regalado a Estados Unidos», denuncia el expresidente colombiano Gustavo Petro</description>
-    </item>
-    <item>
-      <title>Brasil, de la autonomía relativa a la inserción hemisférica</title>
-      <link>https://rebelion.org/brasil-de-la-autonomia-relativa-a-la-insercion-hemisferica/</link>
-      <guid isPermaLink="true">https://rebelion.org/brasil-de-la-autonomia-relativa-a-la-insercion-hemisferica/</guid>
-      <pubDate>Mon, 12 Oct 2026 04:35:00 +0000</pubDate>
-      <description>Si la derecha forma una mayoría en el Senado van a transformar este país en un infierno (Inácio Lula da Silva)</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 30 Oct 2026 02:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:56:26 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Eco-consistencia</title>
+      <link>https://rebelion.org/eco-consistencia/</link>
+      <guid isPermaLink="true">https://rebelion.org/eco-consistencia/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:57:00 +0000</pubDate>
+      <description>Ateneo la Maliciosa, Madrid, 26 de octubre de 2026</description>
+    </item>
+    <item>
+      <title>El territorio de la inteligencia artificial</title>
+      <link>https://rebelion.org/el-territorio-de-la-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://rebelion.org/el-territorio-de-la-inteligencia-artificial/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:11:00 +0000</pubDate>
+      <description>El territorio de la inteligencia artificial</description>
+    </item>
     <item>
       <title>Contrasentidos del tecnofeudalismo</title>
       <link>https://rebelion.org/contrasentidos-del-tecno-feudalismo/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/por-que-las-empresas-de-inteligencia-artificial-piden-que-se-frene-su-desarrollo/</guid>
       <pubDate>Wed, 16 Sep 2026 04:00:00 +0000</pubDate>
       <description>Las grandes empresas de inteligencia artificial han empezado a pedir más regulación y, en algunos casos, una ralentización del desarrollo de los sistemas más avanzadfos. La explicación oficial es la seguridad: estos modelos pueden adquirir capacidades inesperadas y actuar de forma que sus propios creadores no siempre comprenden.</description>
-    </item>
-    <item>
-      <title>Con la Inteligencia Artificial comienza una nueva época del desarrollo capitalista</title>
-      <link>https://rebelion.org/con-la-inteligencia-artificial-comienza-una-nueva-epoca-del-desarrollo-capitalista/</link>
-      <guid isPermaLink="true">https://rebelion.org/con-la-inteligencia-artificial-comienza-una-nueva-epoca-del-desarrollo-capitalista/</guid>
-      <pubDate>Tue, 15 Sep 2026 07:36:13 +0000</pubDate>
-      <description>Con la Inteligencia Artificial comienza una nueva época del desarrollo capitalista</description>
-    </item>
-    <item>
-      <title>IA: ¿aumentar beneficios empresariales o reducir la jornada laboral y mejorar la vida humana?</title>
-      <link>https://rebelion.org/iaherramienta-para-aumentar-beneficios-empresariales-o-para-reducir-la-jornada-laboral-y-mejorar-la-vida-humana/</link>
-      <guid isPermaLink="true">https://rebelion.org/iaherramienta-para-aumentar-beneficios-empresariales-o-para-reducir-la-jornada-laboral-y-mejorar-la-vida-humana/</guid>
-      <pubDate>Mon, 14 Sep 2026 04:00:00 +0000</pubDate>
-      <description>Existe un miedo creciente a que la inteligencia artificial elimine numerosos puestos de trabajo. Este temor se debe a que la IA puede organizar, controlar y ejecutar determinadas tareas con mayor rapidez, precisión y menor coste que las personas. Sin embargo, el problema no se encuentra únicamente en la capacidad técnica de la inteligencia artificial, sino en el sistema económico y social en el qu</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/argentina/</link>
     <description>Rebelión · Argentina — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 30 Oct 2026 02:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:57:25 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Los bosques en Argentina</title>
+      <link>https://rebelion.org/los-bosques-en-argentina/</link>
+      <guid isPermaLink="true">https://rebelion.org/los-bosques-en-argentina/</guid>
+      <pubDate>Fri, 30 Oct 2026 04:34:00 +0000</pubDate>
+      <description>Los bosques y las personas están interconectadas, y esto ha sido así desde tiempos que no se tiene memoria. Siempre, tanto el árbol como el hombre, han tenido una especial relación basada en la supervivencia.</description>
+    </item>
     <item>
       <title>Docentes universitarios anunciaron un nuevo paro nacional y de maestros en la PBA</title>
       <link>https://rebelion.org/docentes-universitarios-anunciaron-un-nuevo-paro-nacional-y-de-maestros-en-la-pba/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/calentando-motores/</guid>
       <pubDate>Thu, 08 Oct 2026 03:56:00 +0000</pubDate>
       <description>El martes, las dos CTAs, ex combatientes de Malvinas, movimientos sociales, partidos de izquierda y organismos de Derechos Humanos marcharán al Palacio de Tribunales en rechazo del fallo de la Corte Suprema que permitió la derogación de la Ley de Tierras.</description>
-    </item>
-    <item>
-      <title>De delirios, futuras elecciones y corrientes desde abajo</title>
-      <link>https://rebelion.org/de-delirios-futuras-elecciones-y-corrientes-desde-abajo/</link>
-      <guid isPermaLink="true">https://rebelion.org/de-delirios-futuras-elecciones-y-corrientes-desde-abajo/</guid>
-      <pubDate>Wed, 07 Oct 2026 06:44:31 +0000</pubDate>
-      <description>El presidente argentino profundiza con tozudez su rumbo alejado de las necesidades cotidianas y de tozuda indiferencia frente a los problemas de su gobierno. Si se dirige la vista hacia la oposición, son muchas más las indefiniciones que las certezas. Pese a todo hay algo y alguien nuevo en el horizonte.</description>
     </item>
   </channel>
 </rss>
