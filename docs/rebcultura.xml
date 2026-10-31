@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:57:03 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Eric Hobsbawm, historiador de las derrotas</title>
+      <link>https://rebelion.org/eric-hobsbawm-historiador-de-las-derrotas/</link>
+      <guid isPermaLink="true">https://rebelion.org/eric-hobsbawm-historiador-de-las-derrotas/</guid>
+      <pubDate>Sat, 31 Oct 2026 05:15:00 +0000</pubDate>
+      <description>Eric Hobsbawm estaba en Berlín cuando Hitler llegó al poder, en París durante el apogeo del Frente Popular y seguía siendo miembro del Partido Comunista cuando el comunismo se derrumbó. La nueva biografía de Émile Chabal reconstruye la trayectoria de un historiador que nunca dejó de preguntarse qué seguía siendo posible después de la derrota.</description>
+    </item>
     <item>
       <title>«Lorca en La Habana», una recreación de la estancia del literato granadino en Cuba en 1930</title>
       <link>https://rebelion.org/lorca-en-la-habana-una-recreacion-de-la-estancia-del-literato-granadino-en-cuba-en-1930/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/como-el-dinero-cambio-la-literatura/</guid>
       <pubDate>Wed, 07 Oct 2026 04:30:00 +0000</pubDate>
       <description>Cómo el dinero cambió la literatura</description>
-    </item>
-    <item>
-      <title>«América Invertida» y el surgimiento de «Las Tres»</title>
-      <link>https://rebelion.org/america-invertida-y-el-surgimiento-de-las-tres/</link>
-      <guid isPermaLink="true">https://rebelion.org/america-invertida-y-el-surgimiento-de-las-tres/</guid>
-      <pubDate>Wed, 07 Oct 2026 03:44:00 +0000</pubDate>
-      <description>«América Invertida» y el surgimiento de «Las Tres»</description>
     </item>
   </channel>
 </rss>

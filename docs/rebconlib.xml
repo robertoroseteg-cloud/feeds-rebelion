@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:57:03 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Tres equívocos sobre el capitalismo</title>
+      <link>https://rebelion.org/tres-equivocos-sobre-el-capitalismo/</link>
+      <guid isPermaLink="true">https://rebelion.org/tres-equivocos-sobre-el-capitalismo/</guid>
+      <pubDate>Sat, 31 Oct 2026 05:28:00 +0000</pubDate>
+      <description>Todas las miradas críticas conectan la revolución digital con la crisis del capitalismo. Es evidente que la mutación tecnológica irrumpe en un marco de múltiples tensiones de ese sistema, con las consiguientes controversias sobre las consecuencias de ese impacto.</description>
+    </item>
     <item>
       <title>Eco-consistencia</title>
       <link>https://rebelion.org/eco-consistencia/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/sabiais-lo-que-haciais-yo-frente-a-dario-amodei/</guid>
       <pubDate>Fri, 18 Sep 2026 03:52:00 +0000</pubDate>
       <description>Dario Amodei pide ahora ralentizar la inteligencia artificial porque sus riesgos empiezan a materializarse. Pero él mismo advirtió de esos peligros en 2023 y, pese a ello, la carrera continuó. La cuestión ya no es cuándo supisteis lo que podía ocurrir, sino qué hicisteis después de saberlo.</description>
-    </item>
-    <item>
-      <title>¿Por qué las empresas de inteligencia artificial piden que se frene su desarrollo?</title>
-      <link>https://rebelion.org/por-que-las-empresas-de-inteligencia-artificial-piden-que-se-frene-su-desarrollo/</link>
-      <guid isPermaLink="true">https://rebelion.org/por-que-las-empresas-de-inteligencia-artificial-piden-que-se-frene-su-desarrollo/</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 +0000</pubDate>
-      <description>Las grandes empresas de inteligencia artificial han empezado a pedir más regulación y, en algunos casos, una ralentización del desarrollo de los sistemas más avanzadfos. La explicación oficial es la seguridad: estos modelos pueden adquirir capacidades inesperadas y actuar de forma que sus propios creadores no siempre comprenden.</description>
     </item>
   </channel>
 </rss>

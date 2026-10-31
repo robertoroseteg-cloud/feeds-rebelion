@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/otro-mundo-es-posible/</link>
     <description>Rebelión · Otro mundo es posible — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:57:07 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>¿Por qué hay que defender a la escuela?</title>
+      <link>https://rebelion.org/por-que-hay-que-defender-a-la-escuela/</link>
+      <guid isPermaLink="true">https://rebelion.org/por-que-hay-que-defender-a-la-escuela/</guid>
+      <pubDate>Sat, 31 Oct 2026 05:53:00 +0000</pubDate>
+      <description>¿Por qué hay que defender a la escuela?</description>
+    </item>
     <item>
       <title>Por la paz y la soberanía de nuestros pueblos</title>
       <link>https://rebelion.org/por-la-paz-y-la-soberania-de-nuestros-pueblos/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/restaurar-la-paz-en-y-con-la-tierra/</guid>
       <pubDate>Sat, 18 Apr 2026 04:20:00 +0000</pubDate>
       <description>Restaurar la paz en y con la Tierra</description>
-    </item>
-    <item>
-      <title>Civilizaciones: ¿conflicto o convivencia?</title>
-      <link>https://rebelion.org/civilizaciones-conflicto-o-convivencia/</link>
-      <guid isPermaLink="true">https://rebelion.org/civilizaciones-conflicto-o-convivencia/</guid>
-      <pubDate>Thu, 16 Apr 2026 04:30:00 +0000</pubDate>
-      <description>Civilizaciones: ¿conflicto o convivencia?</description>
     </item>
   </channel>
 </rss>
