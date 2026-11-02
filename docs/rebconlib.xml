@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 02 Nov 2026 01:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 20:38:07 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Cuando la inteligencia aniquila</title>
+      <link>https://rebelion.org/cuando-la-inteligencia-aniquila/</link>
+      <guid isPermaLink="true">https://rebelion.org/cuando-la-inteligencia-aniquila/</guid>
+      <pubDate>Mon, 02 Nov 2026 05:30:00 +0000</pubDate>
+      <description>En un planeta que se asienta sobre un polvorín y con conflictos bélicos en aumento, las armas tradicionales ceden paso a medios que hasta hace apenas dos lustros hubieran parecido de ciencia ficción.</description>
+    </item>
     <item>
       <title>Tres equívocos sobre el capitalismo</title>
       <link>https://rebelion.org/tres-equivocos-sobre-el-capitalismo/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/de-que-manera-nos-matara-la-inteligencia-artificial/</guid>
       <pubDate>Mon, 21 Sep 2026 04:15:00 +0000</pubDate>
       <description>Mientras figuras como Sam Altman y Dario Amodei advierten sobre un alarmante 10% de riesgo de extinción humana por la pérdida de control de la IA, investigadores y líderes como Yann LeCun o Donald Trump tildan estas alertas de maniobra mercantil o simple bulo. Más allá de la ciencia ficción y la carrera militar por la supremacía autómata, el verdadero peligro inminente de la inteligencia artificia</description>
-    </item>
-    <item>
-      <title>Sabíais lo que hacíais: yo frente a Dario Amodei</title>
-      <link>https://rebelion.org/sabiais-lo-que-haciais-yo-frente-a-dario-amodei/</link>
-      <guid isPermaLink="true">https://rebelion.org/sabiais-lo-que-haciais-yo-frente-a-dario-amodei/</guid>
-      <pubDate>Fri, 18 Sep 2026 03:52:00 +0000</pubDate>
-      <description>Dario Amodei pide ahora ralentizar la inteligencia artificial porque sus riesgos empiezan a materializarse. Pero él mismo advirtió de esos peligros en 2023 y, pese a ello, la carrera continuó. La cuestión ya no es cuándo supisteis lo que podía ocurrir, sino qué hicisteis después de saberlo.</description>
     </item>
   </channel>
 </rss>
