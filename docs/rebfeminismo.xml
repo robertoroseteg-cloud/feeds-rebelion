@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/feminismos/</link>
     <description>Rebelión · Feminismos — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:38:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:14:20 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Angela Davis, la estanquera de Saigón</title>
+      <link>https://rebelion.org/angela-davis-la-estanquera-de-saigon/</link>
+      <guid isPermaLink="true">https://rebelion.org/angela-davis-la-estanquera-de-saigon/</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+      <description>Angela Davis introdujo la perspectiva de raza y clase en el análisis feminista, anticipando la interseccionalidad pero sin dejar de lado la cuestión de la discriminación judicial y el poder policial sin control</description>
+    </item>
     <item>
       <title>Desfeminizar las iniciativas de parentalidad</title>
       <link>https://rebelion.org/desfeminizar-las-iniciativas-de-parentalidad/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/analisis-las-trampas-mediaticas-y-la-hipocresia-blanca-en-el-feminicidio-de-claudia-tacoronte/</guid>
       <pubDate>Thu, 17 Sep 2026 03:50:00 +0000</pubDate>
       <description>La muerte violenta de una mujer se aprovecha para recuperar la vieja premisa de que existe una serie de países incivilizados a los que no deberían ir las mujeres euroblancas, dando por hecho que en sus propios países europeos están a salvo. Nada más lejos de la realidad.</description>
-    </item>
-    <item>
-      <title>Día de la Mujer Indígena: el legado de Bartolina Sisa</title>
-      <link>https://rebelion.org/dia-de-la-mujer-indigena-el-legado-de-bartolina-sisa/</link>
-      <guid isPermaLink="true">https://rebelion.org/dia-de-la-mujer-indigena-el-legado-de-bartolina-sisa/</guid>
-      <pubDate>Tue, 15 Sep 2026 04:00:00 +0000</pubDate>
-      <description>Cada 5 de septiembre se conmemora a nivel mundial el día de las mujeres indígenas, ¿pero sabemos por qué se eligió este día para honrarlas?</description>
     </item>
   </channel>
 </rss>

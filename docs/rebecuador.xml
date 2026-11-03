@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 03 Nov 2026 04:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:14:27 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Noboa reafirma su estado de sumisión frente al Gobierno de Trump</title>
+      <link>https://rebelion.org/noboa-reafirma-su-estado-de-sumision-frente-al-gobierno-de-trump/</link>
+      <guid isPermaLink="true">https://rebelion.org/noboa-reafirma-su-estado-de-sumision-frente-al-gobierno-de-trump/</guid>
+      <pubDate>Tue, 03 Nov 2026 05:25:00 +0000</pubDate>
+      <description>Noboa reafirma su estado de sumisión frente al Gobierno de Trump</description>
+    </item>
     <item>
       <title>La voluntad popular atropellada por la dictadura de Noboa</title>
       <link>https://rebelion.org/la-voluntad-popular-atropellada-por-la-dictadura-de-noboa/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/nuestros-paramos-no-se-tocan/</guid>
       <pubDate>Tue, 15 Sep 2026 04:15:00 +0000</pubDate>
       <description>¡Nuestros páramos no se tocan!</description>
-    </item>
-    <item>
-      <title>Entre la minería legal e ilegal un solo abrazo, la corrupción</title>
-      <link>https://rebelion.org/entre-la-mineria-legal-e-ilegal-un-solo-abrazo-la-corrupcion/</link>
-      <guid isPermaLink="true">https://rebelion.org/entre-la-mineria-legal-e-ilegal-un-solo-abrazo-la-corrupcion/</guid>
-      <pubDate>Fri, 11 Sep 2026 04:25:00 +0000</pubDate>
-      <description>Entre la minería legal e ilegal un solo abrazo, la corrupción</description>
     </item>
   </channel>
 </rss>
