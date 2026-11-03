@@ -1,46 +1,46 @@
 {
-  "generado": "2026-11-02T20:38:19.440375+00:00",
+  "generado": "2026-11-03T04:21:25.958130+00:00",
   "resultados": [
     {
       "salida": "rebconlib.xml",
-      "ok": true,
-      "metodo": "api rest",
-      "items": 25,
-      "nota": ""
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, se conservó el XML previo"
     },
     {
       "salida": "rebcultura.xml",
       "ok": true,
-      "metodo": "api rest",
-      "items": 25,
+      "metodo": "raspado html",
+      "items": 11,
       "nota": ""
     },
     {
       "salida": "rebecosoc.xml",
-      "ok": true,
-      "metodo": "api rest",
-      "items": 25,
-      "nota": ""
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, se conservó el XML previo"
     },
     {
       "salida": "rebeconomia.xml",
-      "ok": true,
-      "metodo": "api rest",
-      "items": 25,
-      "nota": ""
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, se conservó el XML previo"
     },
     {
       "salida": "rebfeminismo.xml",
-      "ok": true,
-      "metodo": "api rest",
-      "items": 25,
-      "nota": ""
+      "ok": false,
+      "metodo": null,
+      "items": 0,
+      "nota": "fallo, se conservó el XML previo"
     },
     {
       "salida": "rebmedioslib.xml",
       "ok": true,
-      "metodo": "api rest",
-      "items": 25,
+      "metodo": "raspado html",
+      "items": 7,
       "nota": ""
     },
     {
@@ -53,8 +53,8 @@
     {
       "salida": "rebAL.xml",
       "ok": true,
-      "metodo": "api rest",
-      "items": 25,
+      "metodo": "raspado html",
+      "items": 19,
       "nota": ""
     },
     {
@@ -67,7 +67,7 @@
     {
       "salida": "rebcolombia.xml",
       "ok": true,
-      "metodo": "api rest",
+      "metodo": "raspado html",
       "items": 25,
       "nota": ""
     },
