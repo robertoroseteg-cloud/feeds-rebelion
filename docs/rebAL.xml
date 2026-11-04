@@ -5,8 +5,29 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/</link>
     <description>Rebelión · América Latina y Caribe — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:28:32 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Cruzados de la libertad</title>
+      <link>https://rebelion.org/cruzados-de-la-libertad/</link>
+      <guid isPermaLink="true">https://rebelion.org/cruzados-de-la-libertad/</guid>
+      <pubDate>Wed, 04 Nov 2026 05:40:00 +0000</pubDate>
+      <description>Cruzados de la libertad</description>
+    </item>
+    <item>
+      <title>La infraestructura de la promesa</title>
+      <link>https://rebelion.org/la-infraestructura-de-la-promesa/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-infraestructura-de-la-promesa/</guid>
+      <pubDate>Wed, 04 Nov 2026 04:45:00 +0000</pubDate>
+      <description>El gobierno anunció una inversión de US$ 5.700 millones en centros de datos. Todavía no se sabe quiénes la financiarán, quiénes serán los clientes, qué garantías tendrá el Estado ni cuánto costará preparar la red eléctrica. UTE, mientras tanto, estudia adelantar obras y sumar generación térmica y eólica antes de lo previsto.</description>
+    </item>
+    <item>
+      <title>¿El primer gendarme de Trump en América Latina?</title>
+      <link>https://rebelion.org/el-primer-gendarme-de-trump-en-america-latina/</link>
+      <guid isPermaLink="true">https://rebelion.org/el-primer-gendarme-de-trump-en-america-latina/</guid>
+      <pubDate>Wed, 04 Nov 2026 03:00:00 +0000</pubDate>
+      <description>¿El primer gendarme de Trump en América Latina?</description>
+    </item>
     <item>
       <title>El neofascismo se contagia en Centroamérica</title>
       <link>https://rebelion.org/el-neofascismo-se-contagia-en-centroamerica/</link>
@@ -160,27 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/escudo-de-las-americas-en-honduras-la-etiqueta-de-terrorista-frente-a-la-protesta-legitima/</guid>
       <pubDate>Thu, 15 Oct 2026 08:01:33 +0000</pubDate>
       <description>Escudo de las Américas en Honduras: la etiqueta de «terrorista» frente a la protesta legítima</description>
-    </item>
-    <item>
-      <title>Las bravuconadas del régimen</title>
-      <link>https://rebelion.org/las-bravuconadas-del-regimen/</link>
-      <guid isPermaLink="true">https://rebelion.org/las-bravuconadas-del-regimen/</guid>
-      <pubDate>Thu, 15 Oct 2026 02:51:00 +0000</pubDate>
-      <description>Las bravuconadas del régimen</description>
-    </item>
-    <item>
-      <title>América Latina, entre «marea rosa/roja» y «marea azul»</title>
-      <link>https://rebelion.org/america-latina-entre-marea-rosa-roja-y-marea-azul/</link>
-      <guid isPermaLink="true">https://rebelion.org/america-latina-entre-marea-rosa-roja-y-marea-azul/</guid>
-      <pubDate>Wed, 14 Oct 2026 04:20:00 +0000</pubDate>
-      <description>América Latina, entre «marea rosa/roja» y «marea azul»</description>
-    </item>
-    <item>
-      <title>Mario Posas, agrarista por siempre</title>
-      <link>https://rebelion.org/mario-posas-agrarista-por-siempre/</link>
-      <guid isPermaLink="true">https://rebelion.org/mario-posas-agrarista-por-siempre/</guid>
-      <pubDate>Wed, 14 Oct 2026 04:00:00 +0000</pubDate>
-      <description>“Mario Posas representa la lectura obligada y permanente de la realidad rural de Honduras”. (Andrónico Espinal, ingeniero agrónomo, investigador y escritor)</description>
     </item>
   </channel>
 </rss>

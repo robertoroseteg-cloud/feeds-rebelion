@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/mexico/</link>
     <description>Rebelión · México — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:48:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:28:36 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>México construye su propia inteligencia artificial en el Sector Salud</title>
+      <link>https://rebelion.org/mexico-construye-su-propia-inteligencia-artificial-en-el-sector-salud/</link>
+      <guid isPermaLink="true">https://rebelion.org/mexico-construye-su-propia-inteligencia-artificial-en-el-sector-salud/</guid>
+      <pubDate>Wed, 04 Nov 2026 09:07:00 +0000</pubDate>
+      <description>El desafío de dejar de ser usuario para convertirse en desarrollador La tecnología no sustituye la compra de medicamentos, el personal médico, la infraestructura hospitalaria ni la supervisión humana; su eficacia dependerá de datos confiables.</description>
+    </item>
     <item>
       <title>El eje México-Brasil</title>
       <link>https://rebelion.org/el-eje-mexico-brasil/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/cni-30-anos-de-organizacion-lucha-y-resistencia/</guid>
       <pubDate>Wed, 23 Sep 2026 04:07:00 +0000</pubDate>
       <description>CNI: 30 años de organización, lucha y resistencia</description>
-    </item>
-    <item>
-      <title>Claudia en el país de las maravillas y de los escándalos de la 4T</title>
-      <link>https://rebelion.org/claudia-en-el-pais-de-las-maravillas-y-de-los-escandalos-de-la-4t/</link>
-      <guid isPermaLink="true">https://rebelion.org/claudia-en-el-pais-de-las-maravillas-y-de-los-escandalos-de-la-4t/</guid>
-      <pubDate>Tue, 22 Sep 2026 04:38:00 +0000</pubDate>
-      <description>Claudia en el país de las maravillas y de los escándalos de la 4T</description>
     </item>
   </channel>
 </rss>
