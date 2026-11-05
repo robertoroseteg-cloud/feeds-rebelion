@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Nov 2026 02:56:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:32:07 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Memoria, afectos y solidaridad en medio de la guerra</title>
+      <link>https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</link>
+      <guid isPermaLink="true">https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</guid>
+      <pubDate>Thu, 05 Nov 2026 05:07:00 +0000</pubDate>
+      <description>Memoria, afectos y solidaridad en medio de la guerra</description>
+    </item>
     <item>
       <title>Conversaciones filosófico-teológicas en un marco de creencia y fe comprometida</title>
       <link>https://rebelion.org/conversaciones-filosofico-teologicas-en-un-marco-de-creencia-y-fe-comprometida/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/la-muerte-siempre-sera-una-sorpresa/</guid>
       <pubDate>Mon, 12 Oct 2026 06:52:47 +0000</pubDate>
       <description>La muerte siempre será una sorpresa…</description>
-    </item>
-    <item>
-      <title>La anatomía del poder: El príncipe de Maquiavelo</title>
-      <link>https://rebelion.org/la-anatomia-del-poder-el-principe-de-maquiavelo/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-anatomia-del-poder-el-principe-de-maquiavelo/</guid>
-      <pubDate>Sat, 10 Oct 2026 04:00:00 +0000</pubDate>
-      <description>La obra maestra de Nicolaus Macchiavelius, El Príncipe, dinamitó la tradición escolástica e inauguró una ruptura epistemológica sin precedentes en el pensamiento occidental. Aunque la escribió en 1513, pasaron casi 20 años para ser publicada, en 1532, después de su muerte. Terminó convirtiéndose en la piedra angular de la ciencia política moderna.</description>
     </item>
   </channel>
 </rss>

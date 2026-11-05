@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/mexico/</link>
     <description>Rebelión · México — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Nov 2026 02:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:32:16 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>¿Por qué es esencial estudiar los lagos que nos dan de beber? El caso de Chapala en México</title>
+      <link>https://rebelion.org/por-que-es-esencial-estudiar-los-lagos-que-nos-dan-de-beber-el-caso-de-chapala-en-mexico/</link>
+      <guid isPermaLink="true">https://rebelion.org/por-que-es-esencial-estudiar-los-lagos-que-nos-dan-de-beber-el-caso-de-chapala-en-mexico/</guid>
+      <pubDate>Thu, 05 Nov 2026 05:15:00 +0000</pubDate>
+      <description>¿Por qué es esencial estudiar los lagos que nos dan de beber? El caso de Chapala en México</description>
+    </item>
     <item>
       <title>México construye su propia inteligencia artificial en el Sector Salud</title>
       <link>https://rebelion.org/mexico-construye-su-propia-inteligencia-artificial-en-el-sector-salud/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/ayotzinapa-no-sabemos-donde-estan/</guid>
       <pubDate>Tue, 29 Sep 2026 04:56:00 +0000</pubDate>
       <description>El próximo sábado se cumplirán 12 años de la desaparición forzada de los 43 estudiantes normalistas de Ayotzinapa, y si bien se sabe ya el destino de tres de ellos, eso no ha eliminado la consigna general nacida en medio del horror del crimen de Estado: ¡Nos faltan 43! El paso de los años ha […]</description>
-    </item>
-    <item>
-      <title>CNI: 30 años de organización, lucha y resistencia</title>
-      <link>https://rebelion.org/cni-30-anos-de-organizacion-lucha-y-resistencia/</link>
-      <guid isPermaLink="true">https://rebelion.org/cni-30-anos-de-organizacion-lucha-y-resistencia/</guid>
-      <pubDate>Wed, 23 Sep 2026 04:07:00 +0000</pubDate>
-      <description>CNI: 30 años de organización, lucha y resistencia</description>
     </item>
   </channel>
 </rss>
