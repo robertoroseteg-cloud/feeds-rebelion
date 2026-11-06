@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 06 Nov 2026 02:56:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:48:29 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Yo frente al territorio que dice «no»</title>
+      <link>https://rebelion.org/yo-frente-al-territorio-que-dice-no/</link>
+      <guid isPermaLink="true">https://rebelion.org/yo-frente-al-territorio-que-dice-no/</guid>
+      <pubDate>Fri, 06 Nov 2026 04:54:00 +0000</pubDate>
+      <description>Mientras la industria tecnológica celebra en Madrid las oportunidades de mi expansión, una movilización europea reivindica el derecho de los territorios a rechazarla.</description>
+    </item>
     <item>
       <title>Cuando la inteligencia aniquila</title>
       <link>https://rebelion.org/cuando-la-inteligencia-aniquila/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/quien-evalua-a-pisa/</guid>
       <pubDate>Wed, 23 Sep 2026 04:05:00 +0000</pubDate>
       <description>¿Quién evalúa a PISA?</description>
-    </item>
-    <item>
-      <title>De qué manera nos matará la inteligencia artificial</title>
-      <link>https://rebelion.org/de-que-manera-nos-matara-la-inteligencia-artificial/</link>
-      <guid isPermaLink="true">https://rebelion.org/de-que-manera-nos-matara-la-inteligencia-artificial/</guid>
-      <pubDate>Mon, 21 Sep 2026 04:15:00 +0000</pubDate>
-      <description>Mientras figuras como Sam Altman y Dario Amodei advierten sobre un alarmante 10% de riesgo de extinción humana por la pérdida de control de la IA, investigadores y líderes como Yann LeCun o Donald Trump tildan estas alertas de maniobra mercantil o simple bulo. Más allá de la ciencia ficción y la carrera militar por la supremacía autómata, el verdadero peligro inminente de la inteligencia artificia</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/argentina/</link>
     <description>Rebelión · Argentina — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 06 Nov 2026 02:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:48:36 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>CABA: La ciudad del odio</title>
+      <link>https://rebelion.org/caba-la-ciudad-del-odio/</link>
+      <guid isPermaLink="true">https://rebelion.org/caba-la-ciudad-del-odio/</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:00 +0000</pubDate>
+      <description>Un grupo de jóvenes organizó una cacería contra travestis y mujeres trans en los Bosques de Palermo. Las persiguieron, golpearon y filmaron celebrando las agresiones en redes sociales. Los discursos de odio que promueven Milei, Macri y Muzzio desde el poder también tienen consecuencias. Este sábado, la Marcha del Orgullo tiene que ser una respuesta contundente.</description>
+    </item>
     <item>
       <title>La invención de la juventud y la transformación semiótica</title>
       <link>https://rebelion.org/la-invencion-de-la-juventud-y-la-transformacion-semiotica/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/ninguna-conquista-empezo-con-la-resignacion/</guid>
       <pubDate>Thu, 15 Oct 2026 07:50:43 +0000</pubDate>
       <description>«Ninguna conquista empezó con la resignación»</description>
-    </item>
-    <item>
-      <title>Coyuntura y cruce de caminos (I)</title>
-      <link>https://rebelion.org/coyuntura-y-cruce-de-caminos-i/</link>
-      <guid isPermaLink="true">https://rebelion.org/coyuntura-y-cruce-de-caminos-i/</guid>
-      <pubDate>Thu, 15 Oct 2026 05:23:00 +0000</pubDate>
-      <description>El análisis de la coyuntura argentina en el presente y el futuro cercano impone la articulación de diferentes dimensiones en el punto de ruptura tanto con fatalismos impenitentes como frente a optimismos facilistas. Los riesgos son múltiples y acuciantes, la carga de esperanzas se alista para contrarrestarlos.</description>
     </item>
   </channel>
 </rss>

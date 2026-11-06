@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/ecologia-social/</link>
     <description>Rebelión · Ecología social — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 06 Nov 2026 02:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:48:31 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>El suelo como espejo de la relación entre humanidad y naturaleza</title>
+      <link>https://rebelion.org/el-suelo-como-espejo-de-la-relacion-entre-humanidad-y-naturaleza/</link>
+      <guid isPermaLink="true">https://rebelion.org/el-suelo-como-espejo-de-la-relacion-entre-humanidad-y-naturaleza/</guid>
+      <pubDate>Fri, 06 Nov 2026 05:16:00 +0000</pubDate>
+      <description>Las investigadoras Patricia Fernández y Lourdes Gil Cardeza proponen una relectura de la tesis «Suelo vivo» de la autora inglesa Eve Balfour a partir de las miradas de autoras de pueblos indígenas de América Latina y con una perspectiva agroecológica, feminista y antipatriarcal. Invitan a desmontar la trama (trampa) del modelo de producción de la «revolución verde», y los transgénicos, como máximo</description>
+    </item>
     <item>
       <title>¿Por qué es esencial estudiar los lagos que nos dan de beber? El caso de Chapala en México</title>
       <link>https://rebelion.org/por-que-es-esencial-estudiar-los-lagos-que-nos-dan-de-beber-el-caso-de-chapala-en-mexico/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/mexico-la-desaparicion-de-siete-defensores-del-bosque-que-sacudio-y-movilizo-al-ejido-el-balcon/</guid>
       <pubDate>Fri, 16 Oct 2026 04:15:00 +0000</pubDate>
       <description>La desaparición de siete defensores del bosque que sacudió y movilizó al ejido El Balcón</description>
-    </item>
-    <item>
-      <title>El tejido de los mil soles</title>
-      <link>https://rebelion.org/el-tejido-de-los-mil-soles/</link>
-      <guid isPermaLink="true">https://rebelion.org/el-tejido-de-los-mil-soles/</guid>
-      <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
-      <description>El tejido de los mil soles no pertenece a la cartografía de las naciones ni a la geometría de las fronteras. Es la trama viva de una civilización que comienza a descubrir otra manera de habitar el planeta. No se levanta sobre la supremacía de un único centro, sino sobre la convergencia de innumerables hogares capaces de transformar la luz en autonomía.</description>
     </item>
   </channel>
 </rss>

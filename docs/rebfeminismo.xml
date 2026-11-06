@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/feminismos/</link>
     <description>Rebelión · Feminismos — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 06 Nov 2026 02:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:48:33 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>¿Por qué Chile necesita un servicio nacional de masculinidades?</title>
+      <link>https://rebelion.org/por-que-chile-necesita-un-servicio-nacional-de-masculinidades/</link>
+      <guid isPermaLink="true">https://rebelion.org/por-que-chile-necesita-un-servicio-nacional-de-masculinidades/</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 +0000</pubDate>
+      <description>Llevamos años hablando de igualdad de género, pero todavía cuesta que los hombres nos hagamos parte de esa conversación. En Chile existen organizaciones, académicos y activistas que llevan tiempo trabajando en masculinidades, muchas veces en colaboración con el movimiento feminista. Sin embargo, estos esfuerzos necesitan mayor continuidad y alcance.</description>
+    </item>
     <item>
       <title>Angela Davis, la estanquera de Saigón</title>
       <link>https://rebelion.org/angela-davis-la-estanquera-de-saigon/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/habitar-otro-cuerpo-hacia-una-nueva-narrativa-del-envejecimiento-femenino/</guid>
       <pubDate>Sat, 19 Sep 2026 04:00:00 +0000</pubDate>
       <description>Siempre el cuerpo en disputa. Las mujeres no podemos obviar los comentarios y las referencias constantes a nuestro cuerpo.</description>
-    </item>
-    <item>
-      <title>Las trampas mediáticas y la hipocresía blanca en el feminicidio de Claudia Tacoronte</title>
-      <link>https://rebelion.org/analisis-las-trampas-mediaticas-y-la-hipocresia-blanca-en-el-feminicidio-de-claudia-tacoronte/</link>
-      <guid isPermaLink="true">https://rebelion.org/analisis-las-trampas-mediaticas-y-la-hipocresia-blanca-en-el-feminicidio-de-claudia-tacoronte/</guid>
-      <pubDate>Thu, 17 Sep 2026 03:50:00 +0000</pubDate>
-      <description>La muerte violenta de una mujer se aprovecha para recuperar la vieja premisa de que existe una serie de países incivilizados a los que no deberían ir las mujeres euroblancas, dando por hecho que en sus propios países europeos están a salvo. Nada más lejos de la realidad.</description>
     </item>
   </channel>
 </rss>
