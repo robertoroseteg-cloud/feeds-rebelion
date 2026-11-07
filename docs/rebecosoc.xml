@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/ecologia-social/</link>
     <description>Rebelión · Ecología social — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 07 Nov 2026 02:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:44:43 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Una América Latina fragmentada se dirige a la COP31 en Antalya</title>
+      <link>https://rebelion.org/una-america-latina-fragmentada-se-dirige-a-la-cop31-en-antalya/</link>
+      <guid isPermaLink="true">https://rebelion.org/una-america-latina-fragmentada-se-dirige-a-la-cop31-en-antalya/</guid>
+      <pubDate>Sat, 07 Nov 2026 05:10:00 +0000</pubDate>
+      <description>Latinoamérica se dirige a la cumbre climática de la ONU de este año con menos respaldo político para la agenda que impulsó hace un año en Brasil.</description>
+    </item>
     <item>
       <title>El suelo como espejo de la relación entre humanidad y naturaleza</title>
       <link>https://rebelion.org/el-suelo-como-espejo-de-la-relacion-entre-humanidad-y-naturaleza/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/nepal-es-el-canario-en-la-mina/</guid>
       <pubDate>Sat, 17 Oct 2026 04:30:00 +0000</pubDate>
       <description>Nepal es un país situado en el sur de Asia, con una superficie de 147 km2. Allí se encuentran 8 de las montañas más elevadas del mundo, incluido el Monte Everest. Tiene unos 30 millones de habitantes y la mayor parte de su población se dedica a la agricultura. El 40% de su territorio está cubierto de bosques, con una gran variedad de zonas climáticas, que incluye desde la tropical hasta la alpina.</description>
-    </item>
-    <item>
-      <title>La desaparición de siete defensores del bosque que sacudió y movilizó al ejido El Balcón</title>
-      <link>https://rebelion.org/mexico-la-desaparicion-de-siete-defensores-del-bosque-que-sacudio-y-movilizo-al-ejido-el-balcon/</link>
-      <guid isPermaLink="true">https://rebelion.org/mexico-la-desaparicion-de-siete-defensores-del-bosque-que-sacudio-y-movilizo-al-ejido-el-balcon/</guid>
-      <pubDate>Fri, 16 Oct 2026 04:15:00 +0000</pubDate>
-      <description>La desaparición de siete defensores del bosque que sacudió y movilizó al ejido El Balcón</description>
     </item>
   </channel>
 </rss>

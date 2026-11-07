@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/cuba/</link>
     <description>Rebelión · Cuba — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 07 Nov 2026 02:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:44:50 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Cuba ante la razón genocida (Parte II)</title>
+      <link>https://rebelion.org/cuba-ante-la-razon-genocida-parte-ii/</link>
+      <guid isPermaLink="true">https://rebelion.org/cuba-ante-la-razon-genocida-parte-ii/</guid>
+      <pubDate>Sat, 07 Nov 2026 05:35:00 +0000</pubDate>
+      <description>Cuba ante la razón genocida (Parte II)</description>
+    </item>
     <item>
       <title>Cuando la sanidad cubana humillaba a Estados Unidos</title>
       <link>https://rebelion.org/cuando-la-sanidad-cubana-humillaba-a-estados-unidos/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/son-ninos-no-numeros/</guid>
       <pubDate>Sat, 12 Sep 2026 04:00:00 +0000</pubDate>
       <description>Son niños, no números</description>
-    </item>
-    <item>
-      <title>Cuba vencerá</title>
-      <link>https://rebelion.org/cuba-vencera/</link>
-      <guid isPermaLink="true">https://rebelion.org/cuba-vencera/</guid>
-      <pubDate>Sat, 12 Sep 2026 03:54:00 +0000</pubDate>
-      <description>Cuba vencerá</description>
     </item>
   </channel>
 </rss>

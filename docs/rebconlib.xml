@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 07 Nov 2026 02:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:44:40 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>«Es posible crear una nueva comunidad digital donde mujeres y disidencias podamos encontrarnos»</title>
+      <link>https://rebelion.org/es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/</link>
+      <guid isPermaLink="true">https://rebelion.org/es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/</guid>
+      <pubDate>Sat, 07 Nov 2026 04:59:00 +0000</pubDate>
+      <description>«Es posible crear una nueva comunidad digital donde mujeres y disidencias podamos encontrarnos»</description>
+    </item>
     <item>
       <title>Yo frente al territorio que dice «no»</title>
       <link>https://rebelion.org/yo-frente-al-territorio-que-dice-no/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/historia-ciencia-desafiada-por-la-ia/</guid>
       <pubDate>Thu, 24 Sep 2026 04:00:00 +0000</pubDate>
       <description>Historia, ciencia desafiada por la IA</description>
-    </item>
-    <item>
-      <title>¿Quién evalúa a PISA?</title>
-      <link>https://rebelion.org/quien-evalua-a-pisa/</link>
-      <guid isPermaLink="true">https://rebelion.org/quien-evalua-a-pisa/</guid>
-      <pubDate>Wed, 23 Sep 2026 04:05:00 +0000</pubDate>
-      <description>¿Quién evalúa a PISA?</description>
     </item>
   </channel>
 </rss>
