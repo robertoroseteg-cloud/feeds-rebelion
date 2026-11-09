@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/mentiras-y-medios/</link>
     <description>Rebelión · Mentiras y medios — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:17:37 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Rebelion.org en la disputa por el sentido</title>
+      <link>https://rebelion.org/rebelion-org-en-la-disputa-por-el-sentido/</link>
+      <guid isPermaLink="true">https://rebelion.org/rebelion-org-en-la-disputa-por-el-sentido/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:12:00 +0000</pubDate>
+      <description>El siguiente texto forma parte del libro «30 años de Rebelión. Información alternativa y emancipadora»</description>
+    </item>
     <item>
       <title>Rebelión punto org</title>
       <link>https://rebelion.org/rebelion-punto-org/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/censura-big-brother/</guid>
       <pubDate>Tue, 22 Sep 2026 07:30:39 +0000</pubDate>
       <description>Censura &amp; big brother</description>
-    </item>
-    <item>
-      <title>No, ya no vamos a tener la conversación de «Esto no es genocidio»</title>
-      <link>https://rebelion.org/no-ya-no-vamos-a-tener-la-conversacion-de-esto-no-es-genocidio/</link>
-      <guid isPermaLink="true">https://rebelion.org/no-ya-no-vamos-a-tener-la-conversacion-de-esto-no-es-genocidio/</guid>
-      <pubDate>Mon, 14 Sep 2026 04:00:00 +0000</pubDate>
-      <description>No, ya no vamos a tener la conversación de «Esto no es genocidio»</description>
     </item>
   </channel>
 </rss>

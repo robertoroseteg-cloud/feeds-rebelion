@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/mexico/</link>
     <description>Rebelión · México — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:17:43 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Terminó la huelga en el Nacional Monte de Piedad</title>
+      <link>https://rebelion.org/termino-la-huelga-en-el-nacional-monte-de-piedad/</link>
+      <guid isPermaLink="true">https://rebelion.org/termino-la-huelga-en-el-nacional-monte-de-piedad/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
+      <description>Terminó la huelga en el Nacional Monte de Piedad</description>
+    </item>
     <item>
       <title>Denuncian presencia de militares israelíes en escuelas públicas mexicanas</title>
       <link>https://rebelion.org/denuncian-presencia-de-militares-israelies-en-escuelas-publicas-mexicanas/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/morena-y-el-arte-de-fingirse-de-izquierda-para-servir-a-la-derecha/</guid>
       <pubDate>Wed, 30 Sep 2026 03:05:00 +0000</pubDate>
       <description>Morena y el arte de fingirse de izquierda para servir a la derecha</description>
-    </item>
-    <item>
-      <title>México ante la debacle geoeconómica y geopolítica de Estados Unidos e Israel en Irán</title>
-      <link>https://rebelion.org/mexico-ante-la-debacle-geoeconomica-y-geopolitica-de-estados-unidos-e-israel-en-iran/</link>
-      <guid isPermaLink="true">https://rebelion.org/mexico-ante-la-debacle-geoeconomica-y-geopolitica-de-estados-unidos-e-israel-en-iran/</guid>
-      <pubDate>Tue, 29 Sep 2026 05:47:20 +0000</pubDate>
-      <description>México ante la debacle geoeconómica y geopolítica de Estados Unidos e Israel en Irán</description>
     </item>
   </channel>
 </rss>

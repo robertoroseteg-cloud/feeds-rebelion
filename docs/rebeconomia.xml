@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/economia/</link>
     <description>Rebelión · Economía — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:17:35 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Examinando a «las cucarachas»</title>
+      <link>https://rebelion.org/examinando-a-las-cucarachas/</link>
+      <guid isPermaLink="true">https://rebelion.org/examinando-a-las-cucarachas/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:37:00 +0000</pubDate>
+      <description>Hicimos lo que nos dijeron y el resultado no llegó (El Tábano Economista)</description>
+    </item>
     <item>
       <title>Erradicación de la pobreza extrema en 2030: objetivo clave de la ONU que no se logrará</title>
       <link>https://rebelion.org/erradicacion-de-la-pobreza-extrema-en-2030-un-objetivo-clave-de-la-onu-que-no-se-lograra/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/la-feria-de-canton-es-la-mas-grande-del-mundo/</guid>
       <pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
       <description>La Feria de Cantón es la más grande del mundo</description>
-    </item>
-    <item>
-      <title>Crece la pobreza hija de la desigualdad</title>
-      <link>https://rebelion.org/crece-la-pobreza-hija-de-la-desigualdad/</link>
-      <guid isPermaLink="true">https://rebelion.org/crece-la-pobreza-hija-de-la-desigualdad/</guid>
-      <pubDate>Tue, 20 Oct 2026 04:30:00 +0000</pubDate>
-      <description>Por primera vez en los últimos 15 años no le cierran los números a una sociedad planetaria atravesada por crisis estructurales, explosivo calentamiento climático y guerras multiplicadas.</description>
     </item>
   </channel>
 </rss>

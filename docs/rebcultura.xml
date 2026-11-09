@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:17:33 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Millet: el pintor de los campesinos</title>
+      <link>https://rebelion.org/millet-el-pintor-de-los-campesinos/</link>
+      <guid isPermaLink="true">https://rebelion.org/millet-el-pintor-de-los-campesinos/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:13:00 +0000</pubDate>
+      <description>Jean-François Millet fue un destacado pintor del Realismo que plasmó la realidad de los campesinos franceses del siglo XIX. El presente artículo lo recuerda.</description>
+    </item>
     <item>
       <title>Alfonso Sastre 100</title>
       <link>https://rebelion.org/alfonso-sastre-100-exposiciones-presentacion-de-un-libro-lectura-dramatizada-y-acto-de-homenaje-para-reivindicar-su-legado-artistico/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/filosofando-por-senderos-no-trillados-i/</guid>
       <pubDate>Sat, 17 Oct 2026 04:52:00 +0000</pubDate>
       <description>Filosofando por senderos no trillados (I)</description>
-    </item>
-    <item>
-      <title>«Mientras rodábamos ‘Palestine 36’, todo el mundo pensaba en el genocidio»</title>
-      <link>https://rebelion.org/mientras-rodabamos-palestine-36-todo-el-mundo-pensaba-en-el-genocidio/</link>
-      <guid isPermaLink="true">https://rebelion.org/mientras-rodabamos-palestine-36-todo-el-mundo-pensaba-en-el-genocidio/</guid>
-      <pubDate>Sat, 17 Oct 2026 03:57:00 +0000</pubDate>
-      <description>Nació en Qalqilya, ciudad palestina por la que se movía saltando de tejado en tejado. El parkour le abrió la puerta del teatro y el teatro le llevó a Berlín. De la mano de Annemarie Jacir debuta en el cine en la piel de Yusuf, un joven atrapado en la revuelta árabe contra el Mandato británico.</description>
     </item>
   </channel>
 </rss>

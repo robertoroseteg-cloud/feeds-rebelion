@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/</link>
     <description>Rebelión · América Latina y Caribe — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:17:39 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Cuba frente al cerco de Washington</title>
+      <link>https://rebelion.org/cuba-frente-al-cerco-de-washington/</link>
+      <guid isPermaLink="true">https://rebelion.org/cuba-frente-al-cerco-de-washington/</guid>
+      <pubDate>Mon, 09 Nov 2026 09:31:50 +0000</pubDate>
+      <description>Cuba frente al cerco de Washington</description>
+    </item>
+    <item>
+      <title>Revuelta, rebelión, revolución</title>
+      <link>https://rebelion.org/revuelta-rebelion-revolucion/</link>
+      <guid isPermaLink="true">https://rebelion.org/revuelta-rebelion-revolucion/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:35:00 +0000</pubDate>
+      <description>Revuelta, rebelión, revolución</description>
+    </item>
     <item>
       <title>Cómo la caída de un banco en Paraguay acabó con el gobierno del presidente Santiago Peña</title>
       <link>https://rebelion.org/como-la-caida-de-un-banco-en-paraguay-acabo-con-el-gobierno-del-presidente-santiago-pena/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/salud-publica-necesidad-humana-o-atraco/</guid>
       <pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate>
       <description>Salud pública: ¿necesidad humana o atraco?</description>
-    </item>
-    <item>
-      <title>El Escudo de las Américas revela el interés de EE.UU. en los recursos naturales de América Latina</title>
-      <link>https://rebelion.org/el-escudo-de-las-americas-revela-el-interes-de-estados-unidos-en-los-recursos-naturales-de-america-latina/</link>
-      <guid isPermaLink="true">https://rebelion.org/el-escudo-de-las-americas-revela-el-interes-de-estados-unidos-en-los-recursos-naturales-de-america-latina/</guid>
-      <pubDate>Wed, 21 Oct 2026 04:20:00 +0000</pubDate>
-      <description>La iniciativa impulsada por Donald Trump a la que se han sumado, hasta ahora, 17 presidentes de América Latina, tiene como marco la lucha contra el narcotráfico y la criminalidad organizada. Sin embargo, analistas políticos y economistas de la región coinciden en señalar que el interés principal de Estados Unidos es el acceso a los recursos naturales, en especial a los minerales estratégicos que h</description>
-    </item>
-    <item>
-      <title>¿Quiénes votan a la ultraderecha en América Latina?</title>
-      <link>https://rebelion.org/quienes-estan-votando-por-la-ultraderecha-en-america-latina/</link>
-      <guid isPermaLink="true">https://rebelion.org/quienes-estan-votando-por-la-ultraderecha-en-america-latina/</guid>
-      <pubDate>Tue, 20 Oct 2026 04:38:00 +0000</pubDate>
-      <description>¿Quiénes votan a la ultraderecha en América Latina?</description>
     </item>
   </channel>
 </rss>
