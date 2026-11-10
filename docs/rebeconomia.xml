@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/economia/</link>
     <description>Rebelión · Economía — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:28:43 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>¿Qué nos puede decir la última gran crisis sobre la próxima?</title>
+      <link>https://rebelion.org/que-nos-puede-decir-la-ultima-gran-crisis-sobre-la-proxima/</link>
+      <guid isPermaLink="true">https://rebelion.org/que-nos-puede-decir-la-ultima-gran-crisis-sobre-la-proxima/</guid>
+      <pubDate>Tue, 10 Nov 2026 05:20:00 +0000</pubDate>
+      <description>97 años después del «Martes Negro», ¿están cometiendo los inversores el mismo error?</description>
+    </item>
     <item>
       <title>Examinando a «las cucarachas»</title>
       <link>https://rebelion.org/examinando-a-las-cucarachas/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/el-economista-anwar-shaikh-antidoto-contra-las-ilusiones-capitalistas/</guid>
       <pubDate>Wed, 21 Oct 2026 04:15:00 +0000</pubDate>
       <description>El economista nacido en Pakistán falleció el miércoles 7 de octubre. Autor de una obra monumental en 2016 y teórico de la «competencia real», nos ayuda a comprender los callejones sin salida de la teoría económica dominante y la verdadera naturaleza del capitalismo.</description>
-    </item>
-    <item>
-      <title>La Feria de Cantón es la más grande del mundo</title>
-      <link>https://rebelion.org/la-feria-de-canton-es-la-mas-grande-del-mundo/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-feria-de-canton-es-la-mas-grande-del-mundo/</guid>
-      <pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
-      <description>La Feria de Cantón es la más grande del mundo</description>
     </item>
   </channel>
 </rss>
