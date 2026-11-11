@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/colombia/</link>
     <description>Rebelión · Colombia — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:23:41 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Eccehomo Petro</title>
+      <link>https://rebelion.org/eccehomo-petro/</link>
+      <guid isPermaLink="true">https://rebelion.org/eccehomo-petro/</guid>
+      <pubDate>Wed, 11 Nov 2026 11:24:15 +0000</pubDate>
+      <description>Eccehomo Petro</description>
+    </item>
     <item>
       <title>La crisis fiscal del Estado y el ajuste de Abelardo</title>
       <link>https://rebelion.org/la-crisis-fiscal-del-estado-y-el-ajuste-de-abelardo/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/terremoto-en-colombia-causas-efectos-imprevisiones-omisiones-institucionalidad-y-poder/</guid>
       <pubDate>Thu, 24 Sep 2026 07:09:53 +0000</pubDate>
       <description>Terremoto en Colombia: causas, efectos, imprevisiones, omisiones, institucionalidad y poder</description>
-    </item>
-    <item>
-      <title>La autonomía universitaria como límite al poder presidencial</title>
-      <link>https://rebelion.org/la-autonomia-universitaria-como-limite-al-poder-presidencial/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-autonomia-universitaria-como-limite-al-poder-presidencial/</guid>
-      <pubDate>Thu, 24 Sep 2026 04:00:00 +0000</pubDate>
-      <description>La autonomía universitaria como límite al poder presidencial</description>
     </item>
   </channel>
 </rss>

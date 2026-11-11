@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/tema/ecologia-social/</link>
     <description>Rebelión · Ecología social — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:23:35 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Salud y cambio climático</title>
+      <link>https://rebelion.org/salud-y-cambio-climatico/</link>
+      <guid isPermaLink="true">https://rebelion.org/salud-y-cambio-climatico/</guid>
+      <pubDate>Wed, 11 Nov 2026 05:10:00 +0000</pubDate>
+      <description>Salud y cambio climático</description>
+    </item>
+    <item>
+      <title>El Gobierno bloquea la protección del territorio de un pueblo indígena en aislamiento</title>
+      <link>https://rebelion.org/el-gobierno-bloquea-la-proteccion-del-territorio-de-un-pueblo-indigena-en-aislamiento/</link>
+      <guid isPermaLink="true">https://rebelion.org/el-gobierno-bloquea-la-proteccion-del-territorio-de-un-pueblo-indigena-en-aislamiento/</guid>
+      <pubDate>Wed, 11 Nov 2026 05:00:00 +0000</pubDate>
+      <description>El Gobierno bloquea la protección del territorio de un pueblo indígena en aislamiento</description>
+    </item>
     <item>
       <title>Comienza una Cumbre del Clima que hará evidente «el choque entre dos mundos»</title>
       <link>https://rebelion.org/comienza-una-cumbre-del-clima-que-hara-evidente-el-choque-entre-dos-mundos/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/el-escudo-de-las-americas-revela-el-interes-de-estados-unidos-en-los-recursos-naturales-de-america-latina/</guid>
       <pubDate>Wed, 21 Oct 2026 04:20:00 +0000</pubDate>
       <description>La iniciativa impulsada por Donald Trump a la que se han sumado, hasta ahora, 17 presidentes de América Latina, tiene como marco la lucha contra el narcotráfico y la criminalidad organizada. Sin embargo, analistas políticos y economistas de la región coinciden en señalar que el interés principal de Estados Unidos es el acceso a los recursos naturales, en especial a los minerales estratégicos que h</description>
-    </item>
-    <item>
-      <title>Castigo a la protesta pacífica y condena a los activistas climáticos por una acción en 2019</title>
-      <link>https://rebelion.org/castigo-a-la-protesta-pacifica-y-condena-a-los-activistas-climaticos-por-una-accion-en-2019/</link>
-      <guid isPermaLink="true">https://rebelion.org/castigo-a-la-protesta-pacifica-y-condena-a-los-activistas-climaticos-por-una-accion-en-2019/</guid>
-      <pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
-      <description>Castigo a la protesta pacífica y condena a los activistas climáticos por una acción en 2019</description>
-    </item>
-    <item>
-      <title>Afrontar el colapso climático en un verano de océanos hirvientes y pueblos devastados</title>
-      <link>https://rebelion.org/afrontar-el-colapso-climatico-en-un-verano-de-oceanos-hirvientes-y-pueblos-devastados/</link>
-      <guid isPermaLink="true">https://rebelion.org/afrontar-el-colapso-climatico-en-un-verano-de-oceanos-hirvientes-y-pueblos-devastados/</guid>
-      <pubDate>Tue, 20 Oct 2026 04:25:00 +0000</pubDate>
-      <description>Afrontar el colapso climático en un verano de océanos hirvientes y pueblos devastados</description>
     </item>
   </channel>
 </rss>
