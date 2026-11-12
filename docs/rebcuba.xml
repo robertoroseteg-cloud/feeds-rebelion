@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/cuba/</link>
     <description>Rebelión · Cuba — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:42:26 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>«La composición de la ANPP no es un espejo de la sociedad cubana actual»</title>
+      <link>https://rebelion.org/la-composicion-de-la-anpp-no-es-un-espejo-de-la-sociedad-cubana-actual/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-composicion-de-la-anpp-no-es-un-espejo-de-la-sociedad-cubana-actual/</guid>
+      <pubDate>Thu, 12 Nov 2026 05:24:00 +0000</pubDate>
+      <description>«La composición de la ANPP no es un espejo de la sociedad cubana actual»</description>
+    </item>
     <item>
       <title>Cuba frente al cerco de Washington</title>
       <link>https://rebelion.org/cuba-frente-al-cerco-de-washington/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/fidel-ciencia-y-soberania-2/</guid>
       <pubDate>Wed, 16 Sep 2026 03:36:00 +0000</pubDate>
       <description>Fidel, ciencia y soberanía</description>
-    </item>
-    <item>
-      <title>Cuba: seis décadas de ataques terroristas y violencia contra la Revolución</title>
-      <link>https://rebelion.org/cuba-seis-decadas-de-ataques-terroristas-y-violencia-contra-la-revolucion/</link>
-      <guid isPermaLink="true">https://rebelion.org/cuba-seis-decadas-de-ataques-terroristas-y-violencia-contra-la-revolucion/</guid>
-      <pubDate>Sat, 12 Sep 2026 08:36:35 +0000</pubDate>
-      <description>A 25 años del 11 de septiembre, Díaz-Canel recordó la denuncia de Fidel Castro y el historial de ataques contra Cuba.</description>
     </item>
   </channel>
 </rss>

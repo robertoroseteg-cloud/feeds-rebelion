@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/mentiras-y-medios/</link>
     <description>Rebelión · Mentiras y medios — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:42:21 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>La importancia de rebelion.org</title>
+      <link>https://rebelion.org/la-importancia-de-rebelion-org/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-importancia-de-rebelion-org/</guid>
+      <pubDate>Thu, 12 Nov 2026 05:18:00 +0000</pubDate>
+      <description>El siguiente texto forma parte del libro «30 años de Rebelión. Información alternativa y emancipadora»</description>
+    </item>
     <item>
       <title>El amigo de Abascal deja sin dinero a millones de personas</title>
       <link>https://rebelion.org/el-amigo-de-abascal-deja-sin-dinero-a-millones-de-personas/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/las-nuevas-sanciones-del-reino-unido-contra-israel-no-logran-revocar-ninguna-licencia-de-exportacion-de-armas/</guid>
       <pubDate>Mon, 28 Sep 2026 04:00:00 +0000</pubDate>
       <description>Las nuevas sanciones del ministro de Asuntos Exteriores, Ed Miliband, constituyen una cortina de humo para apaciguar a los votantes indignados por el genocidio y los crímenes de guerra de Israel en Cisjordania y Gaza, territorios ocupados.</description>
-    </item>
-    <item>
-      <title>La doctrina mediática de Sayyed Nasrallah: credibilidad, verdad y disuasión</title>
-      <link>https://rebelion.org/la-doctrina-mediatica-de-sayyed-nasrallah-credibilidad-verdad-y-disuasion/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-doctrina-mediatica-de-sayyed-nasrallah-credibilidad-verdad-y-disuasion/</guid>
-      <pubDate>Fri, 25 Sep 2026 04:00:00 +0000</pubDate>
-      <description>Análisis de la estrategia mediática de Sayyed Hassan Nasrallah, desde la credibilidad y la guerra psicológica hasta los medios de comunicación de la resistencia y su papel en la disuasión.</description>
     </item>
   </channel>
 </rss>

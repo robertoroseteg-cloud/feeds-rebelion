@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:42:27 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Los impactos destructivos de la minería son eternos</title>
+      <link>https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/</link>
+      <guid isPermaLink="true">https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/</guid>
+      <pubDate>Thu, 12 Nov 2026 05:30:00 +0000</pubDate>
+      <description>Haciendo caso omiso a las tragedias ocurridas en Brasil y en otros países, en Ecuador se abre más y más la puerta al gigantismo minero. En la provincia amazónica de Zamora Chinchipe se construye la piscina de relaves con el muro de contención más alto del mundo.</description>
+    </item>
     <item>
       <title>La devaluación de la palabra presidencial</title>
       <link>https://rebelion.org/la-devaluacion-de-la-palabra-presidencial/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/desmemoria-de-una-guerra-antiesclavista/</guid>
       <pubDate>Wed, 23 Sep 2026 04:15:00 +0000</pubDate>
       <description>Desmemoria de una guerra antiesclavista</description>
-    </item>
-    <item>
-      <title>Marines de EE.UU. realizan obras militares en la Base Aérea de Taura (Guayas)</title>
-      <link>https://rebelion.org/marines-de-ee-uu-realizan-obras-militares-en-la-base-aerea-de-taura-guayas/</link>
-      <guid isPermaLink="true">https://rebelion.org/marines-de-ee-uu-realizan-obras-militares-en-la-base-aerea-de-taura-guayas/</guid>
-      <pubDate>Fri, 18 Sep 2026 04:00:00 +0000</pubDate>
-      <description>La ejecución de obras militares por tropas estadounidenses en la Base Aérea de Taura contraviene la prohibición constitucional de instalaciones extranjeras.</description>
     </item>
   </channel>
 </rss>
