@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/</link>
     <description>Rebelión · América Latina y Caribe — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:25:11 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>La derecha criminaliza a la oposición: exilio, detenciones y leyes para sofocar la disidencia</title>
+      <link>https://rebelion.org/la-derecha-criminaliza-a-la-oposicion-exilio-detenciones-y-leyes-para-sofocar-la-disidencia/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-derecha-criminaliza-a-la-oposicion-exilio-detenciones-y-leyes-para-sofocar-la-disidencia/</guid>
+      <pubDate>Fri, 13 Nov 2026 04:55:00 +0000</pubDate>
+      <description>Tras las controvertidas elecciones de 2025. En Honduras se emite una orden de aprehensión contra el expresidente del Congreso y doce parlamentarios están bajo acusación</description>
+    </item>
     <item>
       <title>Paraguay: las contradicciones del paraíso neoliberal</title>
       <link>https://rebelion.org/paraguay-las-contradicciones-del-paraiso-neoliberal/</link>
@@ -162,13 +169,6 @@
       <description>El Congreso del Frente Amplio entre el respaldo y el mandato</description>
     </item>
     <item>
-      <title>La dictadura de Bukele: ambiente familiar, aplican restricciones</title>
-      <link>https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</guid>
-      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-      <description>La dictadura de Bukele ahora ofrece ambiente familiar. Tiene sello, publicidad y nombre en inglés: «family friendly». La invitación es pasar, sonreír y disfrutar. Pero conviene leer la letra pequeña: el anfitrión combate el reconocimiento de las familias diversas, separa hogares mediante capturas arbitrarias y empuja al exilio a quienes lo critican. Con semejante historial, el Gobierno parece más </description>
-    </item>
-    <item>
       <title>Latinoamérica y la búsqueda del buen vivir</title>
       <link>https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</link>
       <guid isPermaLink="true">https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</guid>
@@ -176,11 +176,11 @@
       <description>Latinoamérica y la búsqueda del buen vivir</description>
     </item>
     <item>
-      <title>Maurice Bishop: adelante siempre</title>
-      <link>https://rebelion.org/maurice-bishop-adelante-siempre/</link>
-      <guid isPermaLink="true">https://rebelion.org/maurice-bishop-adelante-siempre/</guid>
-      <pubDate>Tue, 27 Oct 2026 05:18:00 +0000</pubDate>
-      <description>Maurice Bishop: adelante siempre</description>
+      <title>La dictadura de Bukele: ambiente familiar, aplican restricciones</title>
+      <link>https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+      <description>La dictadura de Bukele ahora ofrece ambiente familiar. Tiene sello, publicidad y nombre en inglés: «family friendly». La invitación es pasar, sonreír y disfrutar. Pero conviene leer la letra pequeña: el anfitrión combate el reconocimiento de las familias diversas, separa hogares mediante capturas arbitrarias y empuja al exilio a quienes lo critican. Con semejante historial, el Gobierno parece más </description>
     </item>
   </channel>
 </rss>

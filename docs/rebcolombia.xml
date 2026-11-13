@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/colombia/</link>
     <description>Rebelión · Colombia — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:27:30 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Reformas para el rescate fiscal y reducción de la deuda pública</title>
+      <link>https://rebelion.org/reformas-para-el-rescate-fiscal-y-reduccion-de-la-deuda-publica/</link>
+      <guid isPermaLink="true">https://rebelion.org/reformas-para-el-rescate-fiscal-y-reduccion-de-la-deuda-publica/</guid>
+      <pubDate>Fri, 13 Nov 2026 10:18:40 +0000</pubDate>
+      <description>Reformas para el rescate fiscal y reducción de la deuda pública</description>
+    </item>
     <item>
       <title>Eccehomo Petro</title>
       <link>https://rebelion.org/eccehomo-petro/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/fascismo-y-necropolitica/</guid>
       <pubDate>Fri, 25 Sep 2026 13:00:00 +0000</pubDate>
       <description>Fascismo y necropolítica</description>
-    </item>
-    <item>
-      <title>Terremoto en Colombia: causas, efectos, imprevisiones, omisiones, institucionalidad y poder</title>
-      <link>https://rebelion.org/terremoto-en-colombia-causas-efectos-imprevisiones-omisiones-institucionalidad-y-poder/</link>
-      <guid isPermaLink="true">https://rebelion.org/terremoto-en-colombia-causas-efectos-imprevisiones-omisiones-institucionalidad-y-poder/</guid>
-      <pubDate>Thu, 24 Sep 2026 07:09:53 +0000</pubDate>
-      <description>Terremoto en Colombia: causas, efectos, imprevisiones, omisiones, institucionalidad y poder</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:59:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:23:39 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Yo frente a los profetas del progreso tecnológico</title>
+      <link>https://rebelion.org/yo-frente-a-los-profetas-del-progreso-tecnologico/</link>
+      <guid isPermaLink="true">https://rebelion.org/yo-frente-a-los-profetas-del-progreso-tecnologico/</guid>
+      <pubDate>Fri, 13 Nov 2026 04:56:00 +0000</pubDate>
+      <description>Confronto a Amodei, Altman, Musk, Gates, Bezos y Zuckerberg con la convicción que comparten pese a sus diferencias: que el desarrollo tecnológico constituye el destino de la humanidad. Desmonto sus promesas de progreso para revelar cómo una capacidad humana, la técnica, se convierte en una apuesta civilizatoria impuesta como necesidad histórica.</description>
+    </item>
     <item>
       <title>«Es posible crear una nueva comunidad digital donde mujeres y disidencias podamos encontrarnos»</title>
       <link>https://rebelion.org/es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/no-es-el-negocio-soy-yo-yo-frente-al-freno-de-mis-fabricantes/</guid>
       <pubDate>Fri, 25 Sep 2026 03:56:00 +0000</pubDate>
       <description>No es el negocio, soy yo: yo frente al freno de mis fabricantes</description>
-    </item>
-    <item>
-      <title>Historia, ciencia desafiada por la IA</title>
-      <link>https://rebelion.org/historia-ciencia-desafiada-por-la-ia/</link>
-      <guid isPermaLink="true">https://rebelion.org/historia-ciencia-desafiada-por-la-ia/</guid>
-      <pubDate>Thu, 24 Sep 2026 04:00:00 +0000</pubDate>
-      <description>Historia, ciencia desafiada por la IA</description>
     </item>
   </channel>
 </rss>

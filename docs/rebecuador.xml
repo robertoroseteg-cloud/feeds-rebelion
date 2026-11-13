@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:27:47 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>¿Ecuador sigue siendo una democracia?</title>
+      <link>https://rebelion.org/ecuador-sigue-siendo-una-democracia/</link>
+      <guid isPermaLink="true">https://rebelion.org/ecuador-sigue-siendo-una-democracia/</guid>
+      <pubDate>Fri, 13 Nov 2026 05:16:00 +0000</pubDate>
+      <description>¿Ecuador sigue siendo una democracia?</description>
+    </item>
     <item>
       <title>Los impactos destructivos de la minería son eternos</title>
       <link>https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/la-apertura-del-catastro-minero-nos-catapulta-al-ayer/</guid>
       <pubDate>Thu, 24 Sep 2026 04:15:00 +0000</pubDate>
       <description>La apertura del catastro minero nos catapulta al ayer</description>
-    </item>
-    <item>
-      <title>Desmemoria de una guerra antiesclavista</title>
-      <link>https://rebelion.org/desmemoria-de-una-guerra-antiesclavista/</link>
-      <guid isPermaLink="true">https://rebelion.org/desmemoria-de-una-guerra-antiesclavista/</guid>
-      <pubDate>Wed, 23 Sep 2026 04:15:00 +0000</pubDate>
-      <description>Desmemoria de una guerra antiesclavista</description>
     </item>
   </channel>
 </rss>

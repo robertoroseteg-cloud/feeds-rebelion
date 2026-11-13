@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/economia/</link>
     <description>Rebelión · Economía — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:24:05 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Por qué no se deben utilizar los índices de Gini o de Palma para medir la desigualdad</title>
+      <link>https://rebelion.org/por-que-no-se-deben-utilizar-los-indices-de-gini-o-de-palma-para-medir-la-desigualdad/</link>
+      <guid isPermaLink="true">https://rebelion.org/por-que-no-se-deben-utilizar-los-indices-de-gini-o-de-palma-para-medir-la-desigualdad/</guid>
+      <pubDate>Fri, 13 Nov 2026 05:35:00 +0000</pubDate>
+      <description>Por qué no se deben utilizar los índices de Gini o de Palma para medir la desigualdad</description>
+    </item>
     <item>
       <title>Paraguay: las contradicciones del paraíso neoliberal</title>
       <link>https://rebelion.org/paraguay-las-contradicciones-del-paraiso-neoliberal/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/los-bufones-del-poder-y-el-poder-de-los-bufones/</guid>
       <pubDate>Mon, 26 Oct 2026 05:30:00 +0000</pubDate>
       <description>El poder detrás del espectáculo: caquistocracia, élites y la política de la distracción (El Tábano Economista)</description>
-    </item>
-    <item>
-      <title>Karl Marx y la deuda pública: un análisis de actualidad</title>
-      <link>https://rebelion.org/karl-marx-y-la-deuda-publica-un-analisis-de-actualidad/</link>
-      <guid isPermaLink="true">https://rebelion.org/karl-marx-y-la-deuda-publica-un-analisis-de-actualidad/</guid>
-      <pubDate>Mon, 26 Oct 2026 05:00:00 +0000</pubDate>
-      <description>Citas de «El capital» acompañadas de comentarios</description>
     </item>
   </channel>
 </rss>
