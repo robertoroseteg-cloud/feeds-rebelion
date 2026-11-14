@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/otro-mundo-es-posible/</link>
     <description>Rebelión · Otro mundo es posible — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 14 Nov 2026 02:46:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:51:33 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Conferencia Regional Antiimperialista y Antifascista</title>
+      <link>https://rebelion.org/conferencia-regional-antiimperialista-y-antifascista/</link>
+      <guid isPermaLink="true">https://rebelion.org/conferencia-regional-antiimperialista-y-antifascista/</guid>
+      <pubDate>Sat, 14 Nov 2026 05:20:00 +0000</pubDate>
+      <description>En marzo de este año, Porto Alegre fue escenario de una gran demostración de fuerza de los movimientos políticos y sociales de todo el mundo. La I Conferencia Internacional Antifascista por la Soberanía de los Pueblos fue una respuesta contundente al ascenso de la extrema derecha en el mundo, que tiene en el fascismo su expresión más visible.</description>
+    </item>
     <item>
       <title>¿Por qué hay que defender a la escuela?</title>
       <link>https://rebelion.org/por-que-hay-que-defender-a-la-escuela/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/colombia-es-epicentro-del-debate-economico-internacional-con-el-encuentro-internacional-economia-para-la-vida/</guid>
       <pubDate>Thu, 14 May 2026 03:15:00 +0000</pubDate>
       <description>Colombia es epicentro del debate económico internacional con el Encuentro Internacional «Economía para la Vida»</description>
-    </item>
-    <item>
-      <title>Restaurar la paz en y con la Tierra</title>
-      <link>https://rebelion.org/restaurar-la-paz-en-y-con-la-tierra/</link>
-      <guid isPermaLink="true">https://rebelion.org/restaurar-la-paz-en-y-con-la-tierra/</guid>
-      <pubDate>Sat, 18 Apr 2026 04:20:00 +0000</pubDate>
-      <description>Restaurar la paz en y con la Tierra</description>
     </item>
   </channel>
 </rss>

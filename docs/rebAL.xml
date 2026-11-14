@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/</link>
     <description>Rebelión · América Latina y Caribe — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 14 Nov 2026 02:46:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:51:33 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>FMI y agenda no concluida con JOH</title>
+      <link>https://rebelion.org/fmi-y-agenda-no-concluida-con-joh/</link>
+      <guid isPermaLink="true">https://rebelion.org/fmi-y-agenda-no-concluida-con-joh/</guid>
+      <pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
+      <description>“El Banco Central es una institución esencialmente estatal. No tiene sentido pretender que sea independiente del Estado” (Michel Aglietta, economista francés, uno de los fundadores de la escuela de regulación)</description>
+    </item>
     <item>
       <title>La derecha criminaliza a la oposición: exilio, detenciones y leyes para sofocar la disidencia</title>
       <link>https://rebelion.org/la-derecha-criminaliza-a-la-oposicion-exilio-detenciones-y-leyes-para-sofocar-la-disidencia/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</guid>
       <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
       <description>La dictadura de Bukele ahora ofrece ambiente familiar. Tiene sello, publicidad y nombre en inglés: «family friendly». La invitación es pasar, sonreír y disfrutar. Pero conviene leer la letra pequeña: el anfitrión combate el reconocimiento de las familias diversas, separa hogares mediante capturas arbitrarias y empuja al exilio a quienes lo critican. Con semejante historial, el Gobierno parece más </description>
-    </item>
-    <item>
-      <title>Latinoamérica y la búsqueda del buen vivir</title>
-      <link>https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</link>
-      <guid isPermaLink="true">https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</guid>
-      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-      <description>Latinoamérica y la búsqueda del buen vivir</description>
     </item>
   </channel>
 </rss>

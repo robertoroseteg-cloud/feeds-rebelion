@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/argentina/</link>
     <description>Rebelión · Argentina — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 14 Nov 2026 02:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:51:34 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>«La ley argentina establece que todo pedido de extradición de un refugiado debe ser rechazado»</title>
+      <link>https://rebelion.org/la-ley-argentina-establece-que-todo-pedido-de-extradicion-de-un-refugiado-debe-ser-rechazado/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-ley-argentina-establece-que-todo-pedido-de-extradicion-de-un-refugiado-debe-ser-rechazado/</guid>
+      <pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
+      <description>La defensa denuncia que la justicia ignoró recomendaciones médicas y rechazó evaluar si Bertulazzi estaba en condiciones de volar, mientras el gobierno argentino avanzó con la extradición en contraposición a precedentes similares con Italia.</description>
+    </item>
     <item>
       <title>Un mundo conmovido, un país sin rumbo claro</title>
       <link>https://rebelion.org/un-mundo-conmovido-un-pais-sin-rumbo-claro/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/ocho-bancas-vacias-y-una-plaza-gaseada/</guid>
       <pubDate>Mon, 19 Oct 2026 04:26:00 +0000</pubDate>
       <description>Ocho bancas vacías y una plaza gaseada</description>
-    </item>
-    <item>
-      <title>Sin ley y sin multa</title>
-      <link>https://rebelion.org/sin-ley-y-sin-multa/</link>
-      <guid isPermaLink="true">https://rebelion.org/sin-ley-y-sin-multa/</guid>
-      <pubDate>Mon, 19 Oct 2026 03:51:00 +0000</pubDate>
-      <description>La Justicia suspendió provisoriamente las multas diarias de $100.000 que el juez Martín Cormick había impuesto al jefe de Gabinete, Diego Santilli, por el incumplimiento de la medida cautelar vinculada con la Ley de Financiamiento Universitario. La decisión fue tomada este jueves por la Sala III de la Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal, que hizo lugar a un recu</description>
     </item>
   </channel>
 </rss>

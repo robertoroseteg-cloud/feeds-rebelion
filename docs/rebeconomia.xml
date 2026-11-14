@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/economia/</link>
     <description>Rebelión · Economía — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 14 Nov 2026 02:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:51:30 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>La evanescente ilusión de un mundo multipolar, capitalista, pacífico y de cooperación</title>
+      <link>https://rebelion.org/la-evanescente-ilusion-de-un-mundo-multipolar-capitalista-pacifico-y-de-cooperacion/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-evanescente-ilusion-de-un-mundo-multipolar-capitalista-pacifico-y-de-cooperacion/</guid>
+      <pubDate>Sat, 14 Nov 2026 05:15:00 +0000</pubDate>
+      <description>Según algunos de sus más conspicuos exégetas, con la «multipolaridad» imaginada desaparecerían las contradicciones de clase y también el carácter depredador del sistema capitalista</description>
+    </item>
     <item>
       <title>Por qué no se deben utilizar los índices de Gini o de Palma para medir la desigualdad</title>
       <link>https://rebelion.org/por-que-no-se-deben-utilizar-los-indices-de-gini-o-de-palma-para-medir-la-desigualdad/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/la-protesta-social-desafia-a-una-europa-en-crisis/</guid>
       <pubDate>Tue, 27 Oct 2026 05:35:00 +0000</pubDate>
       <description>Protestas sociales en aumento desafían desde hace varias semanas a una Europa debilitada por su propia crisis económica y social. Y revelan, además, el impacto de la guerra en Ucrania para un continente que se “apropió” de la misma.</description>
-    </item>
-    <item>
-      <title>Los bufones del poder y el poder de los bufones</title>
-      <link>https://rebelion.org/los-bufones-del-poder-y-el-poder-de-los-bufones/</link>
-      <guid isPermaLink="true">https://rebelion.org/los-bufones-del-poder-y-el-poder-de-los-bufones/</guid>
-      <pubDate>Mon, 26 Oct 2026 05:30:00 +0000</pubDate>
-      <description>El poder detrás del espectáculo: caquistocracia, élites y la política de la distracción (El Tábano Economista)</description>
     </item>
   </channel>
 </rss>

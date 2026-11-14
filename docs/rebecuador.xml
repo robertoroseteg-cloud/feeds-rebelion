@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 14 Nov 2026 02:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:51:37 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Los dioses indígenas del Ecuador</title>
+      <link>https://rebelion.org/los-dioses-indigenas-del-ecuador/</link>
+      <guid isPermaLink="true">https://rebelion.org/los-dioses-indigenas-del-ecuador/</guid>
+      <pubDate>Sat, 14 Nov 2026 05:10:00 +0000</pubDate>
+      <description>Los relatos sobre las creencias religiosas de los pueblos originarios de Ecuador son esenciales para la educación y el desarrollo intelectual de los miembros de las comunidades. En algunos relatos, se perfilan nociones filosóficas y científicas.</description>
+    </item>
     <item>
       <title>¿Ecuador sigue siendo una democracia?</title>
       <link>https://rebelion.org/ecuador-sigue-siendo-una-democracia/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/enfrentar-la-organizacion-social-de-nuestro-pais/</guid>
       <pubDate>Sat, 26 Sep 2026 04:00:00 +0000</pubDate>
       <description>Enfrentar la organización social de nuestro país</description>
-    </item>
-    <item>
-      <title>La apertura del catastro minero nos catapulta al ayer</title>
-      <link>https://rebelion.org/la-apertura-del-catastro-minero-nos-catapulta-al-ayer/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-apertura-del-catastro-minero-nos-catapulta-al-ayer/</guid>
-      <pubDate>Thu, 24 Sep 2026 04:15:00 +0000</pubDate>
-      <description>La apertura del catastro minero nos catapulta al ayer</description>
     </item>
   </channel>
 </rss>
