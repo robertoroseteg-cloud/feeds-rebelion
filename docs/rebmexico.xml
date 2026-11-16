@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/mexico/</link>
     <description>Rebelión · México — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:26:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:49:12 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Otro escándalo de Morena: Taddei y la corrupción del INE</title>
+      <link>https://rebelion.org/otro-escandalo-de-morena-taddei-y-la-corrupcion-del-ine/</link>
+      <guid isPermaLink="true">https://rebelion.org/otro-escandalo-de-morena-taddei-y-la-corrupcion-del-ine/</guid>
+      <pubDate>Mon, 16 Nov 2026 10:03:05 +0000</pubDate>
+      <description>Otro escándalo de Morena: Taddei y la corrupción del INE</description>
+    </item>
     <item>
       <title>Terminó la huelga en el Nacional Monte de Piedad</title>
       <link>https://rebelion.org/termino-la-huelga-en-el-nacional-monte-de-piedad/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/monedero-en-morelia-tesis-para-rearmar-una-izquierda-desde-la-derrota/</guid>
       <pubDate>Wed, 30 Sep 2026 03:20:00 +0000</pubDate>
       <description>Monedero en Morelia: tesis para rearmar una izquierda desde la derrota</description>
-    </item>
-    <item>
-      <title>Morena y el arte de fingirse de izquierda para servir a la derecha</title>
-      <link>https://rebelion.org/morena-y-el-arte-de-fingirse-de-izquierda-para-servir-a-la-derecha/</link>
-      <guid isPermaLink="true">https://rebelion.org/morena-y-el-arte-de-fingirse-de-izquierda-para-servir-a-la-derecha/</guid>
-      <pubDate>Wed, 30 Sep 2026 03:05:00 +0000</pubDate>
-      <description>Morena y el arte de fingirse de izquierda para servir a la derecha</description>
     </item>
   </channel>
 </rss>

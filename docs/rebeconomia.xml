@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/economia/</link>
     <description>Rebelión · Economía — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:26:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:49:02 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Los demócratas ganaron, ¿pero qué demócratas?</title>
+      <link>https://rebelion.org/los-democratas-ganaron-pero-que-democratas/</link>
+      <guid isPermaLink="true">https://rebelion.org/los-democratas-ganaron-pero-que-democratas/</guid>
+      <pubDate>Mon, 16 Nov 2026 05:30:00 +0000</pubDate>
+      <description>El pragmatismo ganó las elecciones, pero no la guerra por el alma del Partido Demócrata (El Tábano Economista)</description>
+    </item>
     <item>
       <title>La evanescente ilusión de un mundo multipolar, capitalista, pacífico y de cooperación</title>
       <link>https://rebelion.org/la-evanescente-ilusion-de-un-mundo-multipolar-capitalista-pacifico-y-de-cooperacion/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/los-bancos-centrales-bajo-escrutinio/</guid>
       <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
       <description>El profesor Pedro Gómez Martin-Romo, de la Universitat Politècnica de València (UPV) cuestiona los miles de millones pagados a los bancos por las reservas excedentarias</description>
-    </item>
-    <item>
-      <title>La protesta social desafía a una Europa en crisis</title>
-      <link>https://rebelion.org/la-protesta-social-desafia-a-una-europa-en-crisis/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-protesta-social-desafia-a-una-europa-en-crisis/</guid>
-      <pubDate>Tue, 27 Oct 2026 05:35:00 +0000</pubDate>
-      <description>Protestas sociales en aumento desafían desde hace varias semanas a una Europa debilitada por su propia crisis económica y social. Y revelan, además, el impacto de la guerra en Ucrania para un continente que se “apropió” de la misma.</description>
     </item>
   </channel>
 </rss>

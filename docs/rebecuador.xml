@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:26:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:49:10 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Entre el desencanto y la desinformación</title>
+      <link>https://rebelion.org/entre-el-desencanto-y-la-desinformacion/</link>
+      <guid isPermaLink="true">https://rebelion.org/entre-el-desencanto-y-la-desinformacion/</guid>
+      <pubDate>Mon, 16 Nov 2026 05:31:00 +0000</pubDate>
+      <description>Entre el desencanto y la desinformación</description>
+    </item>
+    <item>
+      <title>Pescadores ecuatorianos demandarán a EE.UU. tras ser atacados en el Pacífico</title>
+      <link>https://rebelion.org/pescadores-ecuatorianos-demandaran-a-ee-uu-tras-ser-atacados-en-el-pacifico/</link>
+      <guid isPermaLink="true">https://rebelion.org/pescadores-ecuatorianos-demandaran-a-ee-uu-tras-ser-atacados-en-el-pacifico/</guid>
+      <pubDate>Mon, 16 Nov 2026 05:12:00 +0000</pubDate>
+      <description>Pescadores ecuatorianos demandarán a EE.UU. tras ser atacados en el Pacífico</description>
+    </item>
     <item>
       <title>Los dioses indígenas del Ecuador</title>
       <link>https://rebelion.org/los-dioses-indigenas-del-ecuador/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/claves-para-pensar-la-ampliacion-portuaria-en-manta/</guid>
       <pubDate>Thu, 01 Oct 2026 03:00:16 +0000</pubDate>
       <description>Claves para pensar la ampliación portuaria en Manta</description>
-    </item>
-    <item>
-      <title>Los colores partidistas en Ecuador y el resto de la región latinoamericana</title>
-      <link>https://rebelion.org/los-colores-partidistas-en-america-latina/</link>
-      <guid isPermaLink="true">https://rebelion.org/los-colores-partidistas-en-america-latina/</guid>
-      <pubDate>Wed, 30 Sep 2026 04:10:00 +0000</pubDate>
-      <description>Los colores partidistas en Ecuador y el resto de la región latinoamericana</description>
-    </item>
-    <item>
-      <title>Enfrentar la organización social de nuestro país</title>
-      <link>https://rebelion.org/enfrentar-la-organizacion-social-de-nuestro-pais/</link>
-      <guid isPermaLink="true">https://rebelion.org/enfrentar-la-organizacion-social-de-nuestro-pais/</guid>
-      <pubDate>Sat, 26 Sep 2026 04:00:00 +0000</pubDate>
-      <description>Enfrentar la organización social de nuestro país</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:49:00 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Muchísimas más que 100 (II)</title>
+      <link>https://rebelion.org/muchisimas-mas-que-100-ii/</link>
+      <guid isPermaLink="true">https://rebelion.org/muchisimas-mas-que-100-ii/</guid>
+      <pubDate>Mon, 16 Nov 2026 05:01:00 +0000</pubDate>
+      <description>Muchísimas más que 100 (II)</description>
+    </item>
     <item>
       <title>Muchas más que 100 (I)</title>
       <link>https://rebelion.org/muchas-mas-que-100-i/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/con-la-nueva-norma-de-vox-no-se-haria-la-bola-negra-pero-tampoco-torrente/</guid>
       <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
       <description>La nueva ley de la extrema derecha en Castilla y León pretende vetar al cine “ideológico” sin explicar ni dar ningún criterio a un intento de censura que, si se aplica de forma estricta, acabaría con cualquier película</description>
-    </item>
-    <item>
-      <title>«Adiós SEMINCI, adiós»: La ministra de Igualdad Ana Redondo acusa a VOX de censurar la libertad artística</title>
-      <link>https://rebelion.org/adios-seminci-adios-la-ministra-de-igualdad-ana-redondo-acusa-a-vox-de-censurar-la-libertad-artistica/</link>
-      <guid isPermaLink="true">https://rebelion.org/adios-seminci-adios-la-ministra-de-igualdad-ana-redondo-acusa-a-vox-de-censurar-la-libertad-artistica/</guid>
-      <pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate>
-      <description>El portavoz del Grupo Socialista Carlos Martínez defiende la cultura y el cine como un derecho de la ciudadanía y ve en la censura «un insulto a la inteligencia»</description>
     </item>
   </channel>
 </rss>
