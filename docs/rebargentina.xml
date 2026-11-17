@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/argentina/</link>
     <description>Rebelión · Argentina — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:38:33 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>El problema a superar es el capitalismo</title>
+      <link>https://rebelion.org/el-problema-a-superar-es-el-capitalismo/</link>
+      <guid isPermaLink="true">https://rebelion.org/el-problema-a-superar-es-el-capitalismo/</guid>
+      <pubDate>Tue, 17 Nov 2026 08:17:38 +0000</pubDate>
+      <description>El problema a superar es el capitalismo</description>
+    </item>
     <item>
       <title>Saquear y fugar: el mito del desarrollo a partir de las exportaciones</title>
       <link>https://rebelion.org/saquear-y-fugar-el-mito-del-desarrollo-a-partir-de-las-exportaciones/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/docentes-bonaerenses-rechazan-el-6-de-aumento-de-kicillof-y-convocan-a-paros-ollas-populares-y-movilizaciones/</guid>
       <pubDate>Thu, 22 Oct 2026 08:05:33 +0000</pubDate>
       <description>Docentes bonaerenses rechazan el 6% de aumento de Kicillof y convocan a paros, ollas populares y movilizaciones</description>
-    </item>
-    <item>
-      <title>Crónica de un viaje a Vaca Muerta y a la realidad del Sur</title>
-      <link>https://rebelion.org/cronica-de-un-viaje-a-vaca-muerta-y-a-la-realidad-del-sur/</link>
-      <guid isPermaLink="true">https://rebelion.org/cronica-de-un-viaje-a-vaca-muerta-y-a-la-realidad-del-sur/</guid>
-      <pubDate>Thu, 22 Oct 2026 04:25:00 +0000</pubDate>
-      <description>Crónica de un viaje a Vaca Muerta y a la realidad del Sur</description>
     </item>
   </channel>
 </rss>

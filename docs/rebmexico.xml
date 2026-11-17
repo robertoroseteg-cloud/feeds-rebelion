@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/mexico/</link>
     <description>Rebelión · México — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:38:43 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>El papel de la tecnología mexicana en la cumbre de la APEC</title>
+      <link>https://rebelion.org/el-papel-de-la-tecnologia-mexicana-en-la-cumbre-de-la-apec/</link>
+      <guid isPermaLink="true">https://rebelion.org/el-papel-de-la-tecnologia-mexicana-en-la-cumbre-de-la-apec/</guid>
+      <pubDate>Tue, 17 Nov 2026 08:51:16 +0000</pubDate>
+      <description>Actualmente agrupa 21 economías que representan más del 60% del PIB mundial y cerca de la mitad del comercio internacional.</description>
+    </item>
     <item>
       <title>Otro escándalo de Morena: Taddei y la corrupción del INE</title>
       <link>https://rebelion.org/otro-escandalo-de-morena-taddei-y-la-corrupcion-del-ine/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/el-charrismo-sindical/</guid>
       <pubDate>Thu, 01 Oct 2026 02:16:00 +0000</pubDate>
       <description>El charrismo sindical</description>
-    </item>
-    <item>
-      <title>Monedero en Morelia: tesis para rearmar una izquierda desde la derrota</title>
-      <link>https://rebelion.org/monedero-en-morelia-tesis-para-rearmar-una-izquierda-desde-la-derrota/</link>
-      <guid isPermaLink="true">https://rebelion.org/monedero-en-morelia-tesis-para-rearmar-una-izquierda-desde-la-derrota/</guid>
-      <pubDate>Wed, 30 Sep 2026 03:20:00 +0000</pubDate>
-      <description>Monedero en Morelia: tesis para rearmar una izquierda desde la derrota</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/economia/</link>
     <description>Rebelión · Economía — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:38:21 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Más guerras, menos solidaridad</title>
+      <link>https://rebelion.org/mas-guerras-menos-solidaridad/</link>
+      <guid isPermaLink="true">https://rebelion.org/mas-guerras-menos-solidaridad/</guid>
+      <pubDate>Tue, 17 Nov 2026 05:30:00 +0000</pubDate>
+      <description>La nueva lógica bélica que se impone de más en más en los países desarrollados produce nuevas víctimas. La cooperación internacional vive una de sus peores crisis de las últimas décadas.</description>
+    </item>
     <item>
       <title>Los demócratas ganaron, ¿pero qué demócratas?</title>
       <link>https://rebelion.org/los-democratas-ganaron-pero-que-democratas/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/anwar-shaikh-me-cambio-la-vida/</guid>
       <pubDate>Wed, 28 Oct 2026 05:25:00 +0000</pubDate>
       <description>El economista Anwar Shaikh, quien murió este mes, dedicó medio siglo a convertir las categorías de Marx en cifras concretas. Su primer asistente de docencia y colaborador de toda la vida recuerda al hombre y a su obra.Anwar Shaikh, uno de los economistas marxistas más importantes de su generación, murió el 6 de octubre a los ochenta años en la ciudad de Nueva York.</description>
-    </item>
-    <item>
-      <title>Los bancos centrales bajo escrutinio</title>
-      <link>https://rebelion.org/los-bancos-centrales-bajo-escrutinio/</link>
-      <guid isPermaLink="true">https://rebelion.org/los-bancos-centrales-bajo-escrutinio/</guid>
-      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-      <description>El profesor Pedro Gómez Martin-Romo, de la Universitat Politècnica de València (UPV) cuestiona los miles de millones pagados a los bancos por las reservas excedentarias</description>
     </item>
   </channel>
 </rss>
