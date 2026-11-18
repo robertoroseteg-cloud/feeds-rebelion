@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/mentiras-y-medios/</link>
     <description>Rebelión · Mentiras y medios — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:55:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:14:42 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Los medios de comunicación siguen encubriendo el genocidio de Gaza</title>
+      <link>https://rebelion.org/los-medios-de-comunicacion-siguen-encubriendo-el-genocidio-de-gaza/</link>
+      <guid isPermaLink="true">https://rebelion.org/los-medios-de-comunicacion-siguen-encubriendo-el-genocidio-de-gaza/</guid>
+      <pubDate>Wed, 18 Nov 2026 05:30:00 +0000</pubDate>
+      <description>Los medios de comunicación siguen encubriendo el genocidio de Gaza</description>
+    </item>
     <item>
       <title>Un pilar de la batalla de ideas de los pueblos Una trayectoria que alimenta la esperanza</title>
       <link>https://rebelion.org/un-pilar-de-la-batalla-de-ideas-de-los-pueblosuna-trayectoria-que-alimenta-la-esperanza/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/la-escuela-rebelde/</guid>
       <pubDate>Fri, 02 Oct 2026 05:49:05 +0000</pubDate>
       <description>El siguiente texto forma parte del libro «30 años de Rebelión. Información alternativa y emancipadora»</description>
-    </item>
-    <item>
-      <title>No hay libertad de expresión en la Casa Blanca</title>
-      <link>https://rebelion.org/no-hay-libertad-de-expresion-en-la-casa-blanca/</link>
-      <guid isPermaLink="true">https://rebelion.org/no-hay-libertad-de-expresion-en-la-casa-blanca/</guid>
-      <pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
-      <description>No hay libertad de expresión en la Casa Blanca</description>
     </item>
   </channel>
 </rss>

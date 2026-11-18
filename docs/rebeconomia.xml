@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/economia/</link>
     <description>Rebelión · Economía — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:14:41 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>PP y Vox: dos programas y una misma aritmética imposible</title>
+      <link>https://rebelion.org/pp-y-vox-dos-programas-y-una-misma-aritmetica-imposible/</link>
+      <guid isPermaLink="true">https://rebelion.org/pp-y-vox-dos-programas-y-una-misma-aritmetica-imposible/</guid>
+      <pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
+      <description>Antes de entrar en el análisis de las propuestas económicas del PP y Vox en la presente campaña electoral es interesante comprobar lo que ha cambiado respecto a sus programas de 2023. A mi juicio, tres cuestiones principales:</description>
+    </item>
     <item>
       <title>Más guerras, menos solidaridad</title>
       <link>https://rebelion.org/mas-guerras-menos-solidaridad/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/a-sangre-fria-octubre-de-2026/</guid>
       <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
       <description>A sangre fría (octubre de 2026)</description>
-    </item>
-    <item>
-      <title>Anwar Shaikh me cambió la vida</title>
-      <link>https://rebelion.org/anwar-shaikh-me-cambio-la-vida/</link>
-      <guid isPermaLink="true">https://rebelion.org/anwar-shaikh-me-cambio-la-vida/</guid>
-      <pubDate>Wed, 28 Oct 2026 05:25:00 +0000</pubDate>
-      <description>El economista Anwar Shaikh, quien murió este mes, dedicó medio siglo a convertir las categorías de Marx en cifras concretas. Su primer asistente de docencia y colaborador de toda la vida recuerda al hombre y a su obra.Anwar Shaikh, uno de los economistas marxistas más importantes de su generación, murió el 6 de octubre a los ochenta años en la ciudad de Nueva York.</description>
     </item>
   </channel>
 </rss>
