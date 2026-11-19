@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/argentina/</link>
     <description>Rebelión · Argentina — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:53:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:21:42 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Jugar con fuego</title>
+      <link>https://rebelion.org/jugar-con-fuego-4/</link>
+      <guid isPermaLink="true">https://rebelion.org/jugar-con-fuego-4/</guid>
+      <pubDate>Thu, 19 Nov 2026 05:58:00 +0000</pubDate>
+      <description>Jugar con fuego</description>
+    </item>
+    <item>
+      <title>La Izquierda Nacional vuelve al debate político</title>
+      <link>https://rebelion.org/la-izquierda-nacional-vuelve-al-debate-politico/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-izquierda-nacional-vuelve-al-debate-politico/</guid>
+      <pubDate>Thu, 19 Nov 2026 04:16:00 +0000</pubDate>
+      <description>La Izquierda Nacional vuelve al debate político</description>
+    </item>
     <item>
       <title>¿Para quién gritan Trump y Milei?</title>
       <link>https://rebelion.org/para-quien-gritan-trump-y-milei/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/docentes-universitarios-anunciaron-un-nuevo-paro-nacional-y-de-maestros-en-la-pba/</guid>
       <pubDate>Thu, 29 Oct 2026 10:10:59 +0000</pubDate>
       <description>Docentes universitarios anunciaron un nuevo paro nacional y de maestros en la PBA</description>
-    </item>
-    <item>
-      <title>Declaración universal sobre el terrorismo de Estado en Argentina</title>
-      <link>https://rebelion.org/declaracion-universal-sobre-el-terrorismo-de-estado-en-argentina/</link>
-      <guid isPermaLink="true">https://rebelion.org/declaracion-universal-sobre-el-terrorismo-de-estado-en-argentina/</guid>
-      <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-      <description>Declaración universal sobre el terrorismo de Estado en Argentina</description>
-    </item>
-    <item>
-      <title>Los trabajadores del subte pararon la campaña de «Ley y orden»</title>
-      <link>https://rebelion.org/los-trabajadores-del-subte-pararon-la-campana-de-ley-y-orden/</link>
-      <guid isPermaLink="true">https://rebelion.org/los-trabajadores-del-subte-pararon-la-campana-de-ley-y-orden/</guid>
-      <pubDate>Wed, 28 Oct 2026 07:16:00 +0000</pubDate>
-      <description>Los trabajadores del subte pararon la campaña de «Ley y orden»</description>
     </item>
   </channel>
 </rss>

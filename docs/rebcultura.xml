@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:53:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:21:36 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Tiempos nuevos y nuevas oportunidades</title>
+      <link>https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</link>
+      <guid isPermaLink="true">https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</guid>
+      <pubDate>Thu, 19 Nov 2026 05:15:00 +0000</pubDate>
+      <description>Tiempos nuevos y nuevas oportunidades</description>
+    </item>
     <item>
       <title>Artículos y reseñas contra la alienación del capital</title>
       <link>https://rebelion.org/articulos-y-resenas-contra-la-alienacion-del-capital/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/juan-segarra-palmer-y-los-macheteros/</guid>
       <pubDate>Sat, 24 Oct 2026 04:18:59 +0000</pubDate>
       <description>Juan Segarra Palmer y los Macheteros</description>
-    </item>
-    <item>
-      <title>«La integridad era una salvaguardia esencial para Andrée Blouin»</title>
-      <link>https://rebelion.org/la-integridad-era-una-salvaguardia-esencial-para-andree-blouin/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-integridad-era-una-salvaguardia-esencial-para-andree-blouin/</guid>
-      <pubDate>Fri, 23 Oct 2026 04:10:00 +0000</pubDate>
-      <description>My Country, Africa [Mi país, África], la autobiografía de Andrée Blouin reeditada en 2025, está ahora disponible en francés publicada por Éditions Hors d’atteinte. Esta figura fundamental de las independencias africanas, olvidada durante mucho tiempo, recuperó recientemente visibilidad gracias al documental Soundtrack to a Coup d’État. Su hija Ève, alma de esa traducción y reedición, recibe a Afri</description>
     </item>
   </channel>
 </rss>
