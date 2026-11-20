@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 20 Nov 2026 03:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:58:08 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Elecciones locales contra la sombra del autoritarismo</title>
+      <link>https://rebelion.org/elecciones-locales-contra-la-sombra-del-autoritarismo/</link>
+      <guid isPermaLink="true">https://rebelion.org/elecciones-locales-contra-la-sombra-del-autoritarismo/</guid>
+      <pubDate>Fri, 20 Nov 2026 05:15:00 +0000</pubDate>
+      <description>La deriva autoritaria del gobierno de estos últimos años, especialmente en 2026, ha creado un clima de incertidumbre democrática sin precedentes en el Ecuador, hasta el punto en que ya se habla abiertamente de que, de darse una victoria para la reelección en la alcaldía de Quito, esta duraría poco, pues el gobierno nacional buscaría encarcelar a Pabel Muñoz para que pierda su cargo.</description>
+    </item>
     <item>
       <title>Tiempos nuevos y nuevas oportunidades</title>
       <link>https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/ice-me-deporto-forzosamente-a-ecuador/</guid>
       <pubDate>Tue, 06 Oct 2026 04:00:00 +0000</pubDate>
       <description>«ICE me deportó forzosamente a Ecuador»</description>
-    </item>
-    <item>
-      <title>Ministro de Defensa justifica el hundimiento de barcos ecuatorianos por Estados Unidos</title>
-      <link>https://rebelion.org/ministro-de-defensa-justifica-el-hundimiento-de-barcos-ecuatorianos-por-estados-unidos/</link>
-      <guid isPermaLink="true">https://rebelion.org/ministro-de-defensa-justifica-el-hundimiento-de-barcos-ecuatorianos-por-estados-unidos/</guid>
-      <pubDate>Sat, 03 Oct 2026 04:01:00 +0000</pubDate>
-      <description>Entre agosto y septiembre de 2026, el Comando Sur de Estados Unidos destruyó al menos ocho embarcaciones ecuatorianas alegando conexión con redes del narcotráfico.</description>
     </item>
   </channel>
 </rss>

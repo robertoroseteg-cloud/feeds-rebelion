@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 20 Nov 2026 03:46:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:57:59 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Mariátegui hoy</title>
+      <link>https://rebelion.org/mariategui-hoy/</link>
+      <guid isPermaLink="true">https://rebelion.org/mariategui-hoy/</guid>
+      <pubDate>Fri, 20 Nov 2026 04:02:00 +0000</pubDate>
+      <description>Acaba de editarse una antología del marxista peruano que contiene un recorrido por su breve trayectoria intelectual y política y se interroga acerca de su pertinencia para el presente y porvenir.</description>
+    </item>
     <item>
       <title>Tiempos nuevos y nuevas oportunidades</title>
       <link>https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</guid>
       <pubDate>Tue, 27 Oct 2026 04:33:00 +0000</pubDate>
       <description>Filosofando por senderos no trillados (II)</description>
-    </item>
-    <item>
-      <title>Juan Segarra Palmer y los Macheteros</title>
-      <link>https://rebelion.org/juan-segarra-palmer-y-los-macheteros/</link>
-      <guid isPermaLink="true">https://rebelion.org/juan-segarra-palmer-y-los-macheteros/</guid>
-      <pubDate>Sat, 24 Oct 2026 04:18:59 +0000</pubDate>
-      <description>Juan Segarra Palmer y los Macheteros</description>
     </item>
   </channel>
 </rss>

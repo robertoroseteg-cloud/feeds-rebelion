@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/mexico/</link>
     <description>Rebelión · México — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 20 Nov 2026 03:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:58:09 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Claudia Sheinbaum en Shenzhen</title>
+      <link>https://rebelion.org/claudia-sheinbaum-en-shenzhen/</link>
+      <guid isPermaLink="true">https://rebelion.org/claudia-sheinbaum-en-shenzhen/</guid>
+      <pubDate>Fri, 20 Nov 2026 07:50:41 +0000</pubDate>
+      <description>Claudia Sheinbaum en Shenzhen</description>
+    </item>
     <item>
       <title>El papel de la tecnología mexicana en la cumbre de la APEC</title>
       <link>https://rebelion.org/el-papel-de-la-tecnologia-mexicana-en-la-cumbre-de-la-apec/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/como-nos-informamos-en-la-era-de-la-desinformacion-algoritmica/</guid>
       <pubDate>Thu, 01 Oct 2026 03:30:00 +0000</pubDate>
       <description>Hoy, ¿quién decide lo que lees ante la reorganización del poder informativo, cuando el 83% de la población mexicana tiene acceso a internet y el 66% utiliza las redes sociales para informarse semanalmente?</description>
-    </item>
-    <item>
-      <title>El charrismo sindical</title>
-      <link>https://rebelion.org/el-charrismo-sindical/</link>
-      <guid isPermaLink="true">https://rebelion.org/el-charrismo-sindical/</guid>
-      <pubDate>Thu, 01 Oct 2026 02:16:00 +0000</pubDate>
-      <description>El charrismo sindical</description>
     </item>
   </channel>
 </rss>
