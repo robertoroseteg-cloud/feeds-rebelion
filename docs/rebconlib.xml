@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:52:37 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Los algoritmos de las redes sociales pueden estar condicionando nuestra opinión y debilitando la democracia</title>
+      <link>https://rebelion.org/los-algoritmos-de-las-redes-sociales-pueden-estar-condicionando-nuestra-opinion-y-debilitando-la-democracia/</link>
+      <guid isPermaLink="true">https://rebelion.org/los-algoritmos-de-las-redes-sociales-pueden-estar-condicionando-nuestra-opinion-y-debilitando-la-democracia/</guid>
+      <pubDate>Sat, 21 Nov 2026 08:17:49 +0000</pubDate>
+      <description>Los algoritmos de las redes sociales pueden estar condicionando nuestra opinión y debilitando la democracia</description>
+    </item>
     <item>
       <title>Cómo la IA aumenta aún más el poder de las grandes tecnológicas</title>
       <link>https://rebelion.org/anthropic-bate-records-bursatiles-como-la-ia-aumenta-aun-mas-el-poder-de-las-grandes-tecnologicas/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/la-inesperada-enemiga-de-la-humanidad/</guid>
       <pubDate>Mon, 12 Oct 2026 07:20:52 +0000</pubDate>
       <description>La inesperada enemiga de la humanidad</description>
-    </item>
-    <item>
-      <title>Inteligencia artificial inducida</title>
-      <link>https://rebelion.org/inteligencia-artificial-inducida/</link>
-      <guid isPermaLink="true">https://rebelion.org/inteligencia-artificial-inducida/</guid>
-      <pubDate>Mon, 05 Oct 2026 07:43:10 +0000</pubDate>
-      <description>Inteligencia artificial inducida</description>
     </item>
   </channel>
 </rss>
