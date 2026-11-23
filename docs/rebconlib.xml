@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/tema/conocimiento-libre/</link>
     <description>Rebelión · Conocimiento Libre — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 22:27:20 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>«Blackout» aeronáutico en Estados Unidos</title>
+      <link>https://rebelion.org/blackout-aeronautico-en-estados-unidos/</link>
+      <guid isPermaLink="true">https://rebelion.org/blackout-aeronautico-en-estados-unidos/</guid>
+      <pubDate>Mon, 23 Nov 2026 05:10:00 +0000</pubDate>
+      <description>«Blackout» aeronáutico en Estados Unidos</description>
+    </item>
+    <item>
+      <title>Máquina juzga a humano: el caso Pangram vs Rojas Silva</title>
+      <link>https://rebelion.org/maquina-juzga-a-humano-el-caso-pangram-vs-rojas-silva/</link>
+      <guid isPermaLink="true">https://rebelion.org/maquina-juzga-a-humano-el-caso-pangram-vs-rojas-silva/</guid>
+      <pubDate>Mon, 23 Nov 2026 04:47:00 +0000</pubDate>
+      <description>La Inteligencia Artificial no es una herramienta con la que podamos componer una novela o detectar un fraude literario, la IA es una nueva modalidad de mundo que nos incita y nos obliga a hacerlo todo bajo su influencia.</description>
+    </item>
     <item>
       <title>Los algoritmos de las redes sociales pueden estar condicionando nuestra opinión y debilitando la democracia</title>
       <link>https://rebelion.org/los-algoritmos-de-las-redes-sociales-pueden-estar-condicionando-nuestra-opinion-y-debilitando-la-democracia/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/el-pacto-estadounidense-entre-ciencia-y-politica-esta-roto-como-llegamos-aqui/</guid>
       <pubDate>Tue, 13 Oct 2026 04:15:00 +0000</pubDate>
       <description>Traducción: Camilo Moreno</description>
-    </item>
-    <item>
-      <title>La IA es un nuevo trastorno para Estados Unidos</title>
-      <link>https://rebelion.org/la-ia-es-un-nuevo-trastorno-para-estados-unidos/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-ia-es-un-nuevo-trastorno-para-estados-unidos/</guid>
-      <pubDate>Tue, 13 Oct 2026 04:07:00 +0000</pubDate>
-      <description>La IA es un nuevo trastorno para Estados Unidos</description>
-    </item>
-    <item>
-      <title>La inesperada enemiga de la humanidad</title>
-      <link>https://rebelion.org/la-inesperada-enemiga-de-la-humanidad/</link>
-      <guid isPermaLink="true">https://rebelion.org/la-inesperada-enemiga-de-la-humanidad/</guid>
-      <pubDate>Mon, 12 Oct 2026 07:20:52 +0000</pubDate>
-      <description>La inesperada enemiga de la humanidad</description>
     </item>
   </channel>
 </rss>

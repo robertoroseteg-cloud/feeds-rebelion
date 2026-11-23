@@ -5,8 +5,22 @@
     <link>https://rebelion.org/categoria/tema/cultura/</link>
     <description>Rebelión · Cultura — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 22:27:21 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Andrés Bello y la maravillosa locura de la palabra</title>
+      <link>https://rebelion.org/andres-bello-y-la-maravillosa-locura-de-la-palabra/</link>
+      <guid isPermaLink="true">https://rebelion.org/andres-bello-y-la-maravillosa-locura-de-la-palabra/</guid>
+      <pubDate>Mon, 23 Nov 2026 08:07:58 +0000</pubDate>
+      <description>Andrés Bello y la maravillosa locura de la palabra</description>
+    </item>
+    <item>
+      <title>La década de la subversión revolucionaria</title>
+      <link>https://rebelion.org/la-decada-de-la-subversion-revolucionaria/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-decada-de-la-subversion-revolucionaria/</guid>
+      <pubDate>Mon, 23 Nov 2026 05:28:00 +0000</pubDate>
+      <description>En la década de los setenta, movimientos subversivos se organizaron para avanzar en la liberación de todos los sistemas de opresión en muchos países; se generaron espacios de poder alternativos y se cuestionaron las relaciones de propiedad.</description>
+    </item>
     <item>
       <title>Mariátegui hoy</title>
       <link>https://rebelion.org/mariategui-hoy/</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/los-viajes-de-gulliver-trescientos-anos-de-un-angustiado-manifiesto-politico/</guid>
       <pubDate>Wed, 28 Oct 2026 05:05:00 +0000</pubDate>
       <description>Se cumplen tres siglos de esta obra maestra de la literatura universal, escrita por Jonathan Swift; enanos, gigantes, caballos que piensan y humanos animalizados, para un carrusel de situaciones que siempre son de actualidad.</description>
-    </item>
-    <item>
-      <title>Acerca del escudo social</title>
-      <link>https://rebelion.org/acerca-del-escudo-social/</link>
-      <guid isPermaLink="true">https://rebelion.org/acerca-del-escudo-social/</guid>
-      <pubDate>Tue, 27 Oct 2026 04:55:00 +0000</pubDate>
-      <description>Acerca del escudo social</description>
-    </item>
-    <item>
-      <title>Filosofando por senderos no trillados (II)</title>
-      <link>https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</link>
-      <guid isPermaLink="true">https://rebelion.org/filosofando-por-senderos-no-trillados-ii/</guid>
-      <pubDate>Tue, 27 Oct 2026 04:33:00 +0000</pubDate>
-      <description>Filosofando por senderos no trillados (II)</description>
     </item>
   </channel>
 </rss>
