@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/ecologia-social/</link>
     <description>Rebelión · Ecología social — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:59:25 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>La economía agroecológica avanza en América: lecciones desde los movimientos</title>
+      <link>https://rebelion.org/la-economia-agroecologica-avanza-en-america-lecciones-desde-los-movimientos/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-economia-agroecologica-avanza-en-america-lecciones-desde-los-movimientos/</guid>
+      <pubDate>Tue, 24 Nov 2026 05:38:00 +0000</pubDate>
+      <description>Sesenta organizaciones, redes y movimientos campesinos, indígenas y cooperativos de la agroecología se reunieron en Pisco (Perú), para intercambiar experiencias, potenciar conocimientos y tejer redes con un principio común: producir alimentos sanos para la soberanía alimentaria dentro de una economía circular y solidaria. Un recorrido entre las voces y las acciones que muestran que el camino está </description>
+    </item>
     <item>
       <title>COP31: una de las peores cumbres de la historia en un mundo más allá de los 1,5 °C</title>
       <link>https://rebelion.org/cop31-una-de-las-peores-cumbres-de-la-historia-en-un-mundo-mas-alla-de-los-15-c/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/calorcito-vital-un-cortometraje-decrecentista-video/</guid>
       <pubDate>Thu, 05 Nov 2026 05:00:00 +0000</pubDate>
       <description>«Calorcito vital» un cortometraje decrecentista (vídeo)</description>
-    </item>
-    <item>
-      <title>Anthropic admite que el clima supondrá más costes para su negocio pero obvia el impacto que tiene su negocio en el cambio climático</title>
-      <link>https://rebelion.org/anthropic-admite-que-el-clima-supondra-mas-costes-para-su-negocio-pero-obvia-el-impacto-que-tiene-su-negocio-en-el-cambio-climatico/</link>
-      <guid isPermaLink="true">https://rebelion.org/anthropic-admite-que-el-clima-supondra-mas-costes-para-su-negocio-pero-obvia-el-impacto-que-tiene-su-negocio-en-el-cambio-climatico/</guid>
-      <pubDate>Wed, 04 Nov 2026 05:20:00 +0000</pubDate>
-      <description>La empresa que desarrolla la IA Claude advierte a sus futuros inversores de que el calor, la escasez de agua y la oposición vecinal pueden encarecer su expansión. Al mismo tiempo, reconoce que algunos de sus futuros centros de datos funcionarán con gas fósil, sin ofrecer cifras que permitan medir la huella ambiental de sus operaciones.</description>
     </item>
   </channel>
 </rss>
