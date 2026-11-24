@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/venezuela/</link>
     <description>Rebelión · Venezuela — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Mon, 23 Nov 2026 22:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:33:31 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Venezuela controlada por EE.UU.: ¿Por ahora?</title>
+      <link>https://rebelion.org/venezuela-controlada-por-ee-uu-por-ahora/</link>
+      <guid isPermaLink="true">https://rebelion.org/venezuela-controlada-por-ee-uu-por-ahora/</guid>
+      <pubDate>Tue, 24 Nov 2026 05:25:00 +0000</pubDate>
+      <description>Venezuela controlada por EE.UU.: ¿Por ahora?</description>
+    </item>
     <item>
       <title>Deuda de Venezuela: la gran estafa de la reestructuración bajo dominación neocolonial</title>
       <link>https://rebelion.org/deuda-de-venezuela-la-gran-estafa-de-la-reestructuracion-bajo-dominacion-neocolonial/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/terremoto-transnacional-de-clase/</guid>
       <pubDate>Thu, 13 Aug 2026 04:25:00 +0000</pubDate>
       <description>Terremoto transnacional de clase</description>
-    </item>
-    <item>
-      <title>Brigadas médicas cubanas atienden a familias refugiadas en Caracas pese a la amenaza estadounidense</title>
-      <link>https://rebelion.org/brigadas-medicas-cubanas-atienden-a-familias-refugiadas-en-caracas-pese-a-la-amenaza-estadounidense/</link>
-      <guid isPermaLink="true">https://rebelion.org/brigadas-medicas-cubanas-atienden-a-familias-refugiadas-en-caracas-pese-a-la-amenaza-estadounidense/</guid>
-      <pubDate>Wed, 12 Aug 2026 04:42:00 +0000</pubDate>
-      <description>Brigadas médicas cubanas atienden a familias refugiadas en Caracas pese a la amenaza estadounidense</description>
     </item>
   </channel>
 </rss>
