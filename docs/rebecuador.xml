@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:22:56 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Desterrar la dictadura</title>
+      <link>https://rebelion.org/desterrar-la-dictadura/</link>
+      <guid isPermaLink="true">https://rebelion.org/desterrar-la-dictadura/</guid>
+      <pubDate>Wed, 25 Nov 2026 05:30:00 +0000</pubDate>
+      <description>Desterrar la dictadura</description>
+    </item>
     <item>
       <title>Tripulantes de nueve embarcaciones demandarán al Estado por desprotección</title>
       <link>https://rebelion.org/tripulantes-de-nueve-embarcaciones-demandaran-al-estado-por-desproteccion/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/kimsakocha-unos-cuantos-hechos-y-algunas-luces-en-tiempos-de-oscuridad/</guid>
       <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
       <description>Kimsakocha, unos cuantos hechos y algunas luces en tiempos de oscuridad</description>
-    </item>
-    <item>
-      <title>Palantir y EDGE Group: Los nuevos aliados del Gobierno ecuatoriano</title>
-      <link>https://rebelion.org/palantir-y-edge-group-los-nuevos-aliados-del-gobierno-ecuatoriano/</link>
-      <guid isPermaLink="true">https://rebelion.org/palantir-y-edge-group-los-nuevos-aliados-del-gobierno-ecuatoriano/</guid>
-      <pubDate>Wed, 07 Oct 2026 04:13:00 +0000</pubDate>
-      <description>Palantir y EDGE Group: Los nuevos aliados del Gobierno ecuatoriano</description>
     </item>
   </channel>
 </rss>
