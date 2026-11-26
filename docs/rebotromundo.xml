@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/tema/otro-mundo-es-posible/</link>
     <description>Rebelión · Otro mundo es posible — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:59:19 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Decrecimiento político</title>
+      <link>https://rebelion.org/decrecimiento-politico/</link>
+      <guid isPermaLink="true">https://rebelion.org/decrecimiento-politico/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:32:00 +0000</pubDate>
+      <description>Decrecimiento político</description>
+    </item>
     <item>
       <title>La urgencia de luchar contra los centros de datos desde una perspectiva antimilitarista</title>
       <link>https://rebelion.org/la-urgencia-de-luchar-contra-los-centros-de-datos-desde-una-perspectiva-antimilitarista/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/europa-y-latinoamerica-se-reunen-en-valencia-para-impulsar-una-educacion-basada-en-los-valores-de-la-economia-del-bien-comun/</guid>
       <pubDate>Sat, 30 May 2026 03:39:00 +0000</pubDate>
       <description>El foro internacional reunirá a personas expertas y del ámbito educativo para compartir herramientas y experiencias que integran los valores de la Economía del Bien Común en la educación, desde iniciativas locales hasta proyectos europeos e internacionales.</description>
-    </item>
-    <item>
-      <title>Nuestro apoyo a los esfuerzos del Papa por la paz en el mundo</title>
-      <link>https://rebelion.org/nuestro-apoyo-a-los-esfuerzos-del-papa-por-la-paz-en-el-mundo/</link>
-      <guid isPermaLink="true">https://rebelion.org/nuestro-apoyo-a-los-esfuerzos-del-papa-por-la-paz-en-el-mundo/</guid>
-      <pubDate>Wed, 27 May 2026 04:05:00 +0000</pubDate>
-      <description>Nuestro apoyo a los esfuerzos del Papa por la paz en el mundo</description>
     </item>
   </channel>
 </rss>

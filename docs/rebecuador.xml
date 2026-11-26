@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:59:23 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>Elecciones 2026: entre el discurso local y la realidad nacional</title>
+      <link>https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</link>
+      <guid isPermaLink="true">https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:05:00 +0000</pubDate>
+      <description>Elecciones 2026: entre el discurso local y la realidad nacional</description>
+    </item>
     <item>
       <title>Desterrar la dictadura</title>
       <link>https://rebelion.org/desterrar-la-dictadura/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/una-huella-para-descolonizar-nuestra-memoria/</guid>
       <pubDate>Sat, 10 Oct 2026 04:00:00 +0000</pubDate>
       <description>Una huella para descolonizar nuestra memoria</description>
-    </item>
-    <item>
-      <title>Kimsakocha, unos cuantos hechos y algunas luces en tiempos de oscuridad</title>
-      <link>https://rebelion.org/kimsakocha-unos-cuantos-hechos-y-algunas-luces-en-tiempos-de-oscuridad/</link>
-      <guid isPermaLink="true">https://rebelion.org/kimsakocha-unos-cuantos-hechos-y-algunas-luces-en-tiempos-de-oscuridad/</guid>
-      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
-      <description>Kimsakocha, unos cuantos hechos y algunas luces en tiempos de oscuridad</description>
     </item>
   </channel>
 </rss>
