@@ -5,8 +5,15 @@
     <link>https://rebelion.org/categoria/territorios/america-latina-y-caribe/ecuador/</link>
     <description>Rebelión · Ecuador — feed generado automáticamente</description>
     <language>es</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:48:24 +0000</lastBuildDate>
     <generator>fabrica-de-feeds</generator>
+    <item>
+      <title>La guerra contra las drogas y la historia detrás de ella están fracasando en Ecuador</title>
+      <link>https://rebelion.org/la-guerra-contra-las-drogas-y-la-historia-detras-de-ella-estan-fracasando-en-ecuador/</link>
+      <guid isPermaLink="true">https://rebelion.org/la-guerra-contra-las-drogas-y-la-historia-detras-de-ella-estan-fracasando-en-ecuador/</guid>
+      <pubDate>Fri, 27 Nov 2026 05:15:00 +0000</pubDate>
+      <description>El Gobierno atribuye el aumento de la violencia al cierre de una base estadounidense en 2009, pero los hechos —incluida la cronología de una nueva acusación de Estados Unidos contra sus opositores— indican lo contrario.</description>
+    </item>
     <item>
       <title>Elecciones 2026: entre el discurso local y la realidad nacional</title>
       <link>https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://rebelion.org/oracion-por-la-paz-y-la-justicia-en-palestina/</guid>
       <pubDate>Tue, 13 Oct 2026 04:10:00 +0000</pubDate>
       <description>Las Comunidades Eclesiales de Base de Guayaquil se suman a la Alianza Global por la paz en Palestina.</description>
-    </item>
-    <item>
-      <title>Una huella para descolonizar nuestra memoria</title>
-      <link>https://rebelion.org/una-huella-para-descolonizar-nuestra-memoria/</link>
-      <guid isPermaLink="true">https://rebelion.org/una-huella-para-descolonizar-nuestra-memoria/</guid>
-      <pubDate>Sat, 10 Oct 2026 04:00:00 +0000</pubDate>
-      <description>Una huella para descolonizar nuestra memoria</description>
     </item>
   </channel>
 </rss>
